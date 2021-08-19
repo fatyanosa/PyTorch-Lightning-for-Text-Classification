@@ -1,4 +1,4 @@
-# PyTorch-Lightning-for-Text-Classification https://doi.org/10.5281/zenodo.5224947
+# PyTorch-Lightning-for-Text-Classification https://zenodo.org/badge/latestdoi/398056958
 How to run:
 
 ## TRAINING
