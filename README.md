@@ -1,4 +1,4 @@
-# Deep Neuroevolution
+# PyTorch-Lightning-for-Text-Classification
 How to run:
 
 ## TRAINING
