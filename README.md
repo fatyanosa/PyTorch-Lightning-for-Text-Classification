@@ -1,4 +1,4 @@
-# PyTorch-Lightning-for-Text-Classification
+# PyTorch-Lightning-for-Text-Classification https://doi.org/10.5281/zenodo.5224947
 How to run:
 
 ## TRAINING
@@ -178,3 +178,6 @@ python testing.py --task_name wnli --model experiments/distilbert-base-uncased/W
 ``` bash
 python testing.py --task_name ax --model experiments/distilbert-base-uncased/MNLI --output_file data/submission/AX.tsv --label_form names
 ```
+
+# Cite As
+Tirana Noor Fatyanosa. 2021. PyTorch-Lightning for Text Classification. Zenodo. https://doi.org/10.5281/zenodo.5224947
