@@ -1,0 +1,1401 @@
+label,sentence
+1,"I'm not asking Microsoft to Gives permission like Android so any app can take my data, but don't keep it restricted like iPhone."
+0,somewhere between Android and iPhone.
+0,And in the Windows Store you can flag the App [Requires Trust] for example.
+0,"Many thanks Sameh Hi, As we know, there is a lot of limitations is WP8 OS due the high security in the OS itself which is very good, but some time we need to allow some apps to do extra works, apps which we trust i.e: hotmail app, facebook app, skype app ...."
+1,"The idea is that we can develop a regular app and we request our permissions in the manifest, OR the app can ASK FOR TRUST_æ_ more"
+1,Please add this simple and extremely helpful feature.
+1,Why not let us have several pages that we can put tiles on and name whatever we want to .
+1,The Idea is if user running our app and by any reason he rebooted the phone so in that case once reboot happen there should be some event so that we can detect that phone is rebooted and we can handle our application accordingly
+1,Add support for the biometric framework from windows 7/8 to allow hardware manufactures to add fingerprint sensors for device login (login allows standard user & guest/kid mode) and for wallet (WP8) transaction activation.
+1,"It would be more natural to allow the physical search key to activate the search function on the active application, rather than loading Bing which is rarely the goal."
+1,Allow platform built-in camera and video apps to use increase and decrease volume hardware keys for picture optical and digital zoom of camera.
+1,"On WP8 add optional support to hook these hardware keys press events for the lens (plug-in) features...hardware keys should include vol+, vol-, stage 1 (light press) camera shutter, stage 2 (deep press) camera shutter."
+1,I believe there needs to be a marking system in the OS like the option of marking several emails in the pop mails.
+1,"If I intend to delete several files(photos, songs) there should be an easier way to do it."
+1,"You can put other apps in one folder, and put on startscreen like a tile."
+0,"This is total uncomfortably, i think about give to user, a choose what he want to bind on search button."
+0,It would be awesome.
+1,Make it so that you have to enter a password for apps of your choice
+0,"Big files can't be transfered using skydrive, it is not praticle!"
+1,It would be an improvement if they displayed as graphic Smilies instead.
+1,"The UserControl should run in the context of the application that created the Alarm or Reminder, and as such would have access to the appropriate view models."
+1,Need an option to remove unused variables in cs file for re factoring.
+1,Use the usb as removeable disk
+1,Pls introduce pattern lockscreen like android.
+0,Only after repairing the installation will the emulator work.
+0,If I close the emulator and try to run it again.
+0,It fails with a uninformative message indicating deployment failed.
+0,"information on the screen locked, temperature, news of facebook and Twitter and lock with letters and numbers"
+0,Search text
+1,"I wish api's for save photos in camera roll in png format; not only as ""lossy"" jpeg format."
+1,"Having native access to OpenCL or C++ AMP support would be nice to have, especially with the newer hardware arriving with WP8."
+0,Please help me I'm Ahmed from Iraq I wanna get Arabic keyboard in my WP please !!!
+0,"When an application has problems or when a problem is detected in advance by the developer, until the publication of the correction version the client is without knowing what is happening."
+0,This way we can give a satisfaction to all who buy or evaluate our applications.
+1,This communication channel can use the Bing Translator to generate the statement in the languages in which the application has been translated.
+0,I believe it is a feature that will cherish Microsoft to customers and that demonstrates respect for the consumer.
+0,"In some cases missing answer key after unlock, when phone is locked, also missing call alert network enable/disable (network code is *#43# for verify, *43# for enable and #43# for disable)."
+1,What I am asking for is some key that will act like the Screenshot->Capture command without me having to change tabs in the Emulator window or release the Accelerometer.
+1,Even something as simple as ctrl+S would be a godsend for me.
+1,"If I am lucky I can do it before my character dies, even then though the player is just moving in a straight line to nowhere_æ_ more"
+1,"Please allow users to view ""comments"" in office docs i.e word, ppt, excel....also allow user to add comments on these docs"
+1,Provide a single link to retrieve all the applications by a specific Publisher like the Android Market.
+1,Please show the scrollbars in the WebBrowser control.
+0,There are times when this is greatly needed!
+0,"The other smartphone platforms like Android, iOS and Blackberry supports launching one App from another and passing data between them."
+0,This is really important when a same organisation develops multiple apps and wants them to interact with each other.
+0,"If this feature will be implemented without affecting the security model of WP, then it will be great for the WP developer world."
+0,I keep getting birthday notifications a day too early.
+0,the date in the peoplehub does not align with the calendar.
+0,"With WP7 we have the unique ability to offer Trails for Paid Apps, which is great."
+1,"However, it would be nice if developers could offer Free Apps with a possibility to users for voluntary donations."
+0,"Some devs do the workaround and offer a Paid app, with the trial version having no restrictions at all (if the user clicks 'buy', he essentially donates to the dev)."
+0,"However, this workaround has the disadvantage of the app not apprearing in the 'free' category, though they are actually free."
+1,"Therefore, it would be great if devs could put apps in the marketplace offering two buttons: 'install (free)' and 'install and donate (e.g.0,99$)'."
+1,"The price could be splitted 30-70 just like with paid apps, just with the difference of the app appearing in the 'free' category."
+0,The current process is very lengthy and costly for non US developers.
+0,Why can't Microsoft simplify it?
+1,Make it similar if not the same as Google!?!?!
+0,"Having read through the cumbersome process, I am more incline to build FREE apps with subscription rather than getting any money through the Marketplace."
+0,Having to deal with physical paperwork (sending it back and forth) is a step backwards... we are living in a digital world!
+1,"There are heaps and HEAPS of really good developers outside of US who really want to contribute to making Windows Phone a preferred choice, so please Microsoft; make it simplier and make it DIGITAL!"
+1,"It would be really helpful if, for example, a developer makes an app that takes advantage of the schedule alarm API, and would like to enable the user to select a custom ringtone for that alarm."
+0,"This API proposal would enable the user to select from many ringtones already available on the phone, and save developers the trouble of having to implement their own custom ringtones."
+0,"If you try to copy-paste multiple recipient number to the ""To:"" box in the messaging, the 2nd until the last number will be duplicated."
+0,Even as a developer we can create most of the apps for individual users that is standalone.
+1,"If we need to target corporates then then we would need more APIs for device management, also like Zune (for a single user), we would need an Enterprise Server Application which can control the devices (of employees) remotely where we can apply corporate policies on the device as well."
+1,Make some usefull app that run ussd code....
+1,Please allow the access to Gmail's Todo list sync when a google account is added on the windows phone.
+1,"Under calendar I see the todo list of hotmail and I like it, it would be great if I can add the gmail's ones too and have the ability to make changes when sync happens or just have the ability to add todo items and those get sync to the phone."
+0,"Hi, the biggest icon size requited is 200x200 bit in the Marketplace single App page this is resized to 240x240 losing quality."
+0,You can't add/update/delete alarms or reminders from a BackgroundAgent.
+1,It'd be great if we at least has the ability to change/edit reminders and alarms that were created by that app.
+0,And I want to get that response to my app to hanle it.
+1,It would be very useful to be able to change the names that my apps appear as when I check the App Hub dashboard.
+1,"Developers must be given additional enumeration values in Socketype and ProtocolType to create variety of sockets like raw sockets based on ICMP, IGMP... etc."
+1,Allow to create Alert and Reminder from Background Task execution.
+1,"Allow Orientation=""horizontal"" on a listbox I would like to use the selectionchanged event handler to create a menu using the listbox control."
+1,As the heading says provide tools to prevent users from reinstalling apps rather than buy the full version and stop devs from being deprived of purchases that they deserve.
+1,"As half the point of my app is the information on the live tile, I'd like to have a polite reminder show every so often if they haven't pinned it, but I simply don't know whether they have or not."
+1,Disable the feature entirely.
+1,"Detect when there is a screen shot attempt so we can programmatically not display, obscure, or watermark our graphics."
+1,"Like Android we need Phone level events like (SMS received/sent event, Camera ON/OFF event, Phone turned ON/OFF event, Keypad lock event etc.)"
+1,"I would like a ""phone remote"" in windows 8."
+1,"Once a application is installed in WP, there should be some way to run that application without user input i.e."
+0,"Specifically, we will want the ability to have selective enabling of application features so that when the WP7 are run (after server-side conversion?)"
+0,"on newer hardware, they switch to the newer profile."
+1,"Barring that, at least allow for merged listings for WP7 and WP8 versions so that customers have a clear upgrade path for the same application."
+1,"Or, you could just support the native SDK/Direct X on WP7."
+0,I'll take that over the previous two.
+1,"Barring that, at least allow for merged listings for WP7 and WP8 versions so that customers have a clear upgrade path for_æ_ more"
+0,The concept explains itself well in below blogpost: WinRT Transitions _æ_ Creating Fast and Fluid Metro UIs http://www.scottlogic.co.uk/blog/colin/2011/10/winrt-transitions-creating-fast-and-fluid-metro-uis/
+0,Using Vodafone GSM and the used data includes Unicode characters thus whole message is failed.
+0,"i could imagine, that in the same way the sms-icon is shown on the lockscreen, a 'mini app icon' is shown aswell, from apps that got notifications (facebbok, whatsapp....)"
+1,"Add an option to delete future appointment in Calendar and preserve previous, when used the option to repeat"
+1,Platform should provide access to call log so you can create applications which for example retrive unknown numbers from call log and find their information from public directories.
+1,"The customized unlock apps are very popular on android and symbian, we hope that we could do the same on WP7."
+0,"At the moment, there is 1-to-1 relation between companies and countries."
+0,It's OK for small business but what about bigger one?
+0,We have several dev-centers in 3 countries and extra sales-offices in more countries.
+0,"Same time, WP7 registration intends we MUST use 1 country only."
+0,"These descriptions also appear differently depending on where they are being viewed (web, zune on PC or device)."
+0,"The Update Description field has a documented purpose, but then in the forums I read that this field does not appear in the Marketplace."
+0,Please provide a way to 1) predictably introduce newlines into the description fields 2) let me see how these fields will render in the different environments (WYSIWYG) 3) show me how the Update Description will be used in my updated app There does not seem to be a way to control newlines in the application descriptions on the Marketplace.
+1,Please provide a way to 1) predictably introduce newlines into the description fields 2) let me see how these fields will render in the different environments (WYSIWYG) 3) show me how the Update Description will be used in my updated_æ_ more
+0,Quicker way to go to the bottom of the metro screen to view tons of pined apps.
+0,I currently develop for Android and iOS.
+0,"I am interested in developing for Windows Phone, but would need a device, to pay registration and learn a 3rd platform to do so."
+0,"That involves a lot of time, which is a large risk to smaller development companies."
+1,"If Microsoft created some incentives, like a free device (Blackberry did this) and a free year of membership (Amazon did this) it could drive a lot of developers to the platform which is crucial to the platform taking off."
+1,I would jump at the opportunity to adapt my apps for Windows Phone if Microsoft created incentives for me to try the platfrom.
+0,Cant use keyboard in landscape mode in some app
+0,You would finally be able to add and customize your alert and text sounds!
+0,Of course each app would have permission accepted by user and each app would have own isolated storage for more private.
+1,It would be nice to see Windows Phone move to optional vector based icons instead of static bitmaps.
+0,This would allow the application bar (or appbar) to resize if say HD screens were added.
+0,"Ideally, users would only need 2 icons for the marketplace: 'Tile' (contains the application name), and 'List' (just the icon for the app list)."
+0,Appbars could be created at 48x48 and resized as needed.
+1,"I know this is a pain on developers that are not designers or have designers, but an option would be nice time saver for the future."
+1,It would be nice to be able to delete a cert you have uploaded.
+1,"I'd like to be able to decorate my home screen by pinning my favorite photos, directly from within the pictures application."
+1,Allow users to organize tiles into separate hubs.
+1,A secondary start hub I can use to store occasionally used apps would be good.
+1,An automated hub for recently used apps would also be good.
+1,Please allow the access to phone filesystem.
+1,It would be a great benefit if the developers can manipulate the sdcard resources etc etc.
+0,"HP have the ePrint functionality, Apple the Airprint."
+0,Can you not make connection to these devices possible?
+0,I want to give a textbox a placeholder text.
+0,This now requires creating a custom control.
+0,I want this to be available out of the box.
+0,"Oh, and I want the option to create labels for the textbox."
+1,Provide the access to pictures in PhotoChooser and Camera Roll in emulator
+0,Since the easiest way to get hold of files to be used in programs is by downloading them from a network or the internet and saving them in isolated storage it would make the whole thing a lot easier if you could do this with FTP.
+0,FTP is still one of the most used protocols for retrieving files.
+0,And using a proxy is not always an options since some of us would like to be able to reach FTP servers that is on a separate network.
+0,"IMAP idle for ""push"" emails and sync read, forward and answered mails plus sync send folder!"
+0,Email for business is very impotant!
+0,"For all the guys & girls over the 45 years old, de need a really big clock in the main display."
+0,Thanks (sorry about my english).
+0,Positioning cursor is almost imposible
+1,WP should support ussd menu and umb as well
+0,"Once removed the Metro interface looks good from a desktop app, but on the mobile phone is horrible."
+0,"When the volume is in the rang 01-09, the volume does not decrease."
+1,"Continuing my prior post about allowing us to explicitly flip secondary live tiles with a tap instead of launching the app, this request would allow such an action to explicitly update the tile by triggering a function call in a background task."
+1,"Perhaps these two ideas are combined and you define which action to take when creating/updating the tile... Flip the tile, execute a background task (or both), or simply launch the app like normal (possibly with deep toast.)"
+0,"That would really make LiveTiles 'Live' which now, they kind of aren't and were by *far* the biggest disappointment when we saw the actual SDK."
+0,"Coming from iOS, when we did see that, we scrapped two apps we were going to release on WP7."
+0,"(A third was scrapped because of the inability to do location tracking in a background task more frequently than once every 30 minutes, which is sort of the same 'stale data' issue as here.)"
+0,"Since it's user-initiated, it wouldn't drain_æ_ more"
+1,"In the Schedule Namespace ist isn't possible to have access to the Media Library to play Songs, User has already on his Device -> Please add this function to get access to the Media Library."
+1,"Another thing is, to have the possibility to modify the Notification, wich is shown, when the Alarm or Reminder Rings."
+0,"We need to open our Application, or to overwrite the notify to costumize it to get a better improvement for the user."
+1,"Extend the API to query phone volume and vibration settings, maybe even set them."
+1,Please provide validation templates for WindowsPhone controls.
+1,"However, not everybody has a physical device, so having those experiences in the emulator would be a great addition to the dev tools and resources."
+1,"Would be nice and useful to have email messages grouped by date, same as contacts grouped by initial letter."
+1,For sharing audio and video there should be a very plain possibility to share stuff as already encoded package.
+1,Perhaps that could be available as Toolkit in codeplex.com.
+1,There needs to be an Alpha Test mechanism available.
+0,"Since the beta test versions I recently submitted have been waiting for certification for 9 days, there is no way for us to work together on this."
+0,My boss is not a developer and has no development tools but absolutely needs to see the progress of development in a timely manner.
+0,If the Beta program certified apps in a day then this might not be a problem.
+0,"As it is, it is hardly usable as a beta test program since our customers also need to see the app and improvements in a timely manner."
+0,"We need support special multitasking tasks, like VOIP and IM!"
+0,"We can't create good apps for this services without this API, looks on your Skype client, wtf??"
+0,iOS already has this API's!
+0,"Volume on headphone, when phone rings while listening to a song, raise to max volume."
+0,Multi-select on Zune to delete Albums or to create a playlist
+0,"Read/write accsess to email sync settings could enable applications to create custom sync profiles (based on week-days, time, position, etc)."
+1,Implement Soundwave touchless api on the phone for touch free Metro.
+0,Microsoft boffins showed how they can use audio via the speaker and microphone and a dopplar computation to detect gestures without touching the screen.
+0,I want to use that on the Phone for some games.
+1,"In the submission process, publishers should be able to check a box for apps that are made for individuals 13 or older and 18 or older."
+0,"This should flag a feature in the marketplace, when an app is being downloaded, to verify the age of the downloader."
+0,"In WP7 you can add multiple accounts of different types (Live, Google, Facebook, etc)."
+1,It would be nice to be allowed to get basic information about these accounts.
+0,"For example, get a list of all email accounts and for each account report the number of unread emails."
+0,I think there are two ways to improve the beta program: 1.
+1,Make apps available immediately.
+0,"When developing on iOS (using testflight) or Android, we don't have to wait two hours for beta code to be ""approved""."
+0,We upload a new version or have the users download an update immediately.
+1,"If immediate approval is not possible, then apps that have been published should be immediately available."
+0,"When we receive emails saying the beta application is published, users are not able to download the application with the very own links provided in the email."
+0,Users are reporting a 1-2 day time between when the app is approved to when it is available for download.
+0,Users receive a strange marketplace error when trying to download the application.
+0,When developing apps it is often useful to leverage existing Launchers and Choosers as Tasks to access certain data or perform an operation.
+0,Currently this is only exposed for system-level data and operations.
+1,It would be ideal to allow apps to expose certain bits of data or functionality to other apps to provide a complementary experience in terms of reuse of information or performing similar tasks.
+0,Imagine shopping apps being able to share a set of data such as a wish list or news apps being able to share a list of news feeds.
+0,"Imagine having an installed app do what it does best for another app, such as perform a series of complex calculations or gather weather data."
+0,It would be the responsibility of the app to decide what it exposes for data or functionality.
+1,This can first be alleviated as with other security screening by prompting the user to allow an app to access another app's tasking features.
+1,"In such case, you'd better make your videos carefully so that it can leave a good user experience to the potential clients."
+1,"If you convert video to FLV flash video, which features much smaller size than popular formats, your videos will be watched unhinderedly with quick loading."
+0,select FLV as output format
+0,"If you are more requirements of your video, such as bit rate, encoder, etc, you are do these settings one by one in the pop-up Formats window."
+0," When everything is finished, you can click Start button to start the video to FLV conversion process."
+0,You are allowed to preview the converting process in slideshow.
+0,"As 99% computer owners have installed flash plugin in web browser, so it's naturally that FLV or SWF flash videos are more acceptable than popular videos formats, such as MP4, AVI, MPEG or ect."
+0,"If you convert video to FLV flash video, which features much smaller size than_æ_ more"
+1,Allow the BackgroundAudioPlayer to play tracks from the MediaLibrary.
+1,Or allow applications that implement the XNA MediaPlayer class to run in the background.
+1,"Please add the possibility to add your own spell check service, or provide the data if a system wide one existed."
+0,"When I want to build some tiles in my app, I have to use buttons that I give a custom style."
+0,"But this is ugly since everyone implements this in another way, resulting in odd alignments, bad text colours, etc."
+1,We need a simple and standardized way to create simple tiles that function as buttons.
+0,Beta testers test our apps for free.
+1,It would be nice if when the app/game is published in the marketplace we could include a list of the testers that helped us so they can get the app from free instead of having to buy it.
+1,"Android,iOs and Blackberry are compatible with this API So why don't we"
+1,"I would be a really nice gesture to have an option wich can put everything to the other side, so when left handed people scroll, they could also see the content."
+0,Visual Studio 11 and new Expression Blend.
+1,Merge products together.
+1,"Add 'open app in marketplace' in the app menu (rate & review, uninstall, pin to start)"
+0,It does not look professional when scrolling upward at the end of any page or downward at the top the content of the page regardless of material or application will be stretched down
+0,It is part of the effect through the whole operating system and does not particularly belong to any application.
+0,Sometime the stretched content of the page does not look professional.
+1,We need UPD broadcast to search for our devices in the network.
+0,"When an exception is thrown and intercepted by the debugger, Edit and Continue permits to change your code right while debugging to make the code continue."
+1,We can allow music that is not copyrighted to be accessible if that is a huge issue.
+1,"Link to sql is not efficient at all, could they include sql , sqlight or other library."
+1,"It s impossible to connect easily to ftp network, I suggest to include it in the future sdk."
+1,We want an Office Hub that open Openoffice document.
+1,Currently for dynamic data binding controlls like listbox  is recommended.
+1,Why can't I change phone search and IE search to Google or another provider that actually work?
+1,Fix Bing or fix the phone.
+0,"At best this is unclear, but should the user pan or zoom they lose the frame of reference for the place we're trying ot show them."
+0,You can sometimes work around this behaviour by specifying a search for the place you're trying to indicate but this is dependent upon the search results.
+0,If the search finds nothing you get no pin.
+0,Or if the search finds something other than what you intended you can end up with a pin (or pins) far from where you want them.
+1,If it were possible to tell the task to show a pin (or pins) at a specific point (or points) that that would allow for a better user experience.
+1,Even if we could just specify a label for the pin that would be better than nothing.
+1,"Add an option ""Private"" to lock photos, movies, songs, calendar appointments..."
+1,An exit button should be there on all application software's.
+1,"Show used volume, so you can see how much MB of your inclusive volume is already used."
+1,We could just upload a CSR and Microsoft provide a signed certificate via their own CA.
+1,It would be nice if a choice between vibration and the sound is given for typing
+1,Pin settings 'airplane mode' 'wifi' etc in the start screen
+1,"Allowing for tester groups or ""profiles"" would allow for efficient test setup in the Marketplace, especially for multiple products, by allowing a group to be assigned to the app as it is entered in the Marketplace as a beta."
+1,"Additionally, it would be great to have additional support for Enterprise developers that target a specific set of clients as opposed to the public masses of the Marketplace."
+1,"First, an Enterprise Developer account could be established with a cost of, say $499, which is high enough to deter hobbyists or smaller companies from enrolling, while at the same time providing additional benefits to larger ""enterprise-level"" corporations."
+1,"Ideally, a mini storefront or splash page for the company and product would help draw in clients."
+1,"Allowing for tester groups or ""profiles"" would allow for efficient test setup in the Marketplace, especially_æ_ more"
+1,"If the app shows sensitive data when deativated, it would be good to be able to use a different image for fast app switching instead of a screenshot of the application"
+1,"Daemon service should be turnable on and off per app basis, in the same way like periodic tasks."
+1,Microsoft should advertise windows phone development APIs in Visual Studio
+1,"Please make it instead fire an event, which could be used to open an app's search bar or page."
+1,At least support displaying static GIF image.
+1,"Back and forward buttons needed, not the capacitive back button."
+1,Please consider to enable support for unsafe code in Silverlight and Xna apps.
+1,Maximizing all current main apps would be better than having 1mil appd in the marketplace.
+1,Create option to allow Periodic Agents to run even if app has not been opened for x days.
+0,This gives my family up to four LIVE accounts.
+0,"On an Xbox, we can log in and play games no problem, yet a W7 phone allows for only one user."
+0,"I can't even log in to another account to check or edit it, let alone play games with it."
+0,A certain rival brand of phones allows users to switch between their LIVE equivalent accounts with no problems whatsoever.
+1,"I bought my WP7 phone with gaming in mind, but there's more than one gamer in this house - please make it possible for several gamertags to be used on one device!"
+1,Keeping the message as draft when exiting would save me the hassle of having to type it again...
+1,Can we have windows phone development using visualstudio lite IDE which includes only phone developement.
+1,"Start by expanding the number of apps that can use a certain key word, such as ""childrens stories"" so that new apps who innovate can displace those who got their first with potentially crappy apps."
+1,"Secondly, you need to limit the number of apps that a publisher can submit with a particular key word."
+1,"We should have some way within our app to get notify that whether user selected call, don't call and when he/she ended call means notification of end call."
+1,"It would be more useful if specific Service apps could be released that would extend these features by, for example, adding a Google+ option to the sharing interface."
+1,"Would be nice if in power point, could have same method as in pictures hub for navigation."
+1,"Received from an MVP this week over email: It would be great to be able to have the emulator location data use the NMEA file format - either via file import/export, or using the files directly as a feed."
+1,Other devices use this format and it would be great to see it supported by Windows Phone.
+1,they all use Sip so it would be great to have a native sip client integrated.
+1,Also a T9 keyboard would be nice too.
+1,I want to be able to add a picture to the media library and then start the SharePictureTask to let the user see and share it from the Pictures Hub
+1,Remove the 50 apps limit from the phone and 100 app limit from the marketplace web site when users search for an app with a search term.
+1,add a quick access Block button/function to be used when receiving spam over chat
+1,I would like to see a monthly/yearly subscription model introduced that let me charge users $5 a year for my app for example.
+1,We really need Assembly Binding Redirection (or Publisher Policies) in Windows Phone!!
+1,It would be great if you could add .png support to the medialibrary so that we can save high quality png files to the picture library.
+1,"Being able to use simple uncompressed .wav files would open up many possibilities for ring tone editors, and make files recorded from the microphone ready to be used as ringtones."
+1,It would be great if the Windows Phone development team could allow us to use the RSTP streaming protocol in .NET Compact Framework we use.
+1,Provide preference setting to categorize apps in the long list by their categories in app store rather than names or alphabetical order...this is extremely helpful for people with lots of apps and provide the ability to maintain the uniformity of the UI while making it more user friendly
+0,This will provide more usability of the live tiles on the start menu..especially when one needs to drag multiple tiles through long list
+1,Please get metequotes to make metatrader for Windows Phone.
+1,"Need of Logger Class to log error,Info,Verbose and daemon Information."
+0,As it is available in android.It improves the debugging process.
+0,"It displays the certificate signer information, but you could easily upload two certificates with different CNs (service names) issued by a single CA and you would have no way of telling them apart."
+1,"Minimally it should show the CN from the subject which matches the service name you provide in client code, along with the CN of the signer."
+0,Ideally it would allow you to download the certificate for verification or at least provide a md5 hash of the uploaded certificate.
+0,Right now you can upload an unsupported certificate or even self-signed cert and apphub will not provide any feedback.
+1,Allow the user to be able to set a custom reminder time such as 2 hours or 1.5 hours before the Calendar entry.
+0,At present you only provide fixed values like 1hr or 18hr before!
+0,tesco club card app shows you points and you have you clubcard bar code avaible on your phone to scan at checkout
+0,"apps has your nectar that you are able to scan in stores, also shows you your points balance, and allows you to shop online and collect more nectar points."
+1,I would like a button I can click that will only select the countries for which Microsoft already accounts for any taxes.
+1,Support file transfer such as PDF files
+1,A bevy of restrictions can also be heaped on the said user control in order to maintain performance and not sap battery life.
+1,"Let Live tiles be live, please."
+1,when an alarm pops up an option to edit the reminder should be included instead of having to constantly hit snooze or exit the reminder and go into the object itself
+1,I need a posibility to set the keyboard language from code.
+0,"the focus on TextBox1 opens the keyboard with the german layout, the focus on TextBox2 opens the keyboard with a greek layout."
+0,"on desktop under net 2.0/3.5 is this no problem: Windows Forms: InputLanguage.CurrentInputLanguage = InputLanguage.FromCulture(new System.Globalization.CultureInfo(""ar-EG"")) WPF: (This is exact what i need) InputLanguageManager.SetInputLanguage(textBox1, new System.Globalization.CultureInfo(""en-US"")); InputLanguageManager.SetRestoreInputLanguage(textBox1, true); I have tested this and it works fine."
+0,"If the keyboard is not installed, nothing changes and the current layout remain."
+0,"Please implement this, it is important for me for a translation application."
+1,"I suggest to create hardware ratings, like ones in Winows 7 (WEI), for the smartphone in order to help both users and developers to match hardware with apps or games."
+0,I think that this ratings will even enable developers to create different versions of the same app pointing to specific hardware.
+1,It would be nice to be able to use the computer keyboard when using the emulator.
+0,It's a bit frustrating to type with the mouse.
+0,"we can't use some important libraries in the background agent like ""Microsoft.devices.sensors"" that limite our power to creat a good application"
+1,"currently you can only pin an album, but it would be useful if you can pin a single image as a tile.. that way you have easy access to a it."
+0,"school schedule, bus route, or a picture of someone you like..."
+0,The current AdControl crashes any app which uses the silverlight/XNA hybrid mode.
+0,Apparently this has never worked nor communicated to Devs!
+0,"I normally wouldn't say ""This is unexceptable"" but given that silverlight/xna hybrid is the new big thing for WP7, this issue needs immediate attention."
+0,...which is useful if you want to add an appointment with the same time/location/notes as a previous one.
+0,"Currently when you press and hold an appointment in the calendar, you have the option to Edit or Delete."
+0,"You either have re-enter all the info, or change the date of the old appointment (but that's not ideal because you lose record of old appointments)"
+1,"local scout should show more than just 20 results, there should be the ability to state the radius from current location and all businesses within that radius should be shown, which could greatly exceed 20. also, if searching a company name for a small business/restaurant, it would be good if that could show within local results."
+0,"often i try to search for a restaurant and there is no result under local, instead i have to find their website and then their postcode."
+0,"this would save me that hastle, and make planning journeys much simpler."
+1,Allow an app to disable text messaging preview.
+1,Allow users to link their app with the 'me' and 'people' hub directly.
+1,"Now that we have API access to contact information it would be useful to immediately be able to click on a contact and open it in a related app, e.g."
+0,"Skype, twitter, etc."
+1,Add a full support of RegionInfo and add possibility to instanciate one with two letter iso code.
+0,"SO, we can use it to dispal country name with user language."
+1,"Add option to hide keyboard: specially when you want to copy a long text.. the keyboard takes around 60% of your LCD space, leaving you with a tiny window to work with."
+0,Exactly As The Title Says.
+1,can you please create a tesco clubcard app
+1,Allow the ability to view SSL Certificates on HTTPS Connections in IE and have the option to install the CA.
+1,I suggests to add some kind of Storage to store GPS POI.
+1,In addition this storage may have integration with contacts to allow user have geographical map of his contacts.
+1,port Internet Explorer 10 to a mobile version (as soon as ie10 is ready) to get all new ie10 features to our mobile phones so we can build better webapps for windows phone.
+1,pls support fixed possitioned elements!!
+1,I'd like to have tiles of various colours on my start screen.
+1,"Allow access to raw data such as signal strength imformation to allow creation of indoor location positioning using available wifi, bluetooth or cellular networks when no gps data is available."
+1,It would be nice if there were an app that logged things that happen on your phone: ie.
+1, it would be also great if there were an icon in the status bar that indicates that that are new events/notifications..
+1,I'd like the ability for an application to be quick loaded from the right-hand corder of the lock keypad.
+1,"If that's not possible, allow a button to be overriden and pressed during the locked screen process."
+1,"Also, I want to be able to set the % left of power for when the batterysaver kicks in."
+1,The default setting is way too late--I'd prefer 50% or more remaining before turning on.
+1,It'd be very convenient for developers without actual devices to test their apps for the certification requirements if everything could actually be tested with the emulator.
+1,Please upgrade the YouTube App by Microsoft Corp. with Metro UI instead directing to a mobile site.
+1,Expose the SongCollection class so we can add and remove song objects from custome song collections.
+1,Allow the BackgorundAudioAgent to utilise the XNA framework so that the device's song library can be played and manipulated from the background.
+1,You would also need to provide a conversion mechanism to convert a Song to an AudioTrack - as is the default file type for the BAP.
+1,Relax the restrictions around application running under a locked screen and/or in the background.
+0,Unless of course we go with a predetermined SongCollection such as SongCollection limitedPlaylist =_æ_ more
+1,We need the ability to build apps that are capable of video editing for WP!
+1,"Please DevGroup make this APIs should enable developers to build apps that include the ability to do video trimming, editing, and saving to the video library."
+0,This is needed to build VoIP application.
+0,Playing audio stream in loudspeaker is uncomfortable for users.
+0,"sir, i have samsung omnia w. its running latest update."
+0,"when i charged my phone, then the key press becomes laggy and hard"
+1,Allow applications to define custom shaders in HLSL.
+0,This will allow sophisticated game graphics and real-time image processing.
+1,Also allow access to MP4 encoder library (hardware accelerated) so apps can generate their own videos.
+0,"This should also allow apps to read existing videos, modify frames and write them back."
+0,for gps tracking apps
+0,"There is an Android app which displays all local wifi connections, with their channel number, strength and, of course, name."
+0,WPF7 should have one like this too!
+0,"Currently, I can detect and control what the embedded Zune player is currently playing."
+0,The same can't be done with 3rd party apps implementing background audio streaming like soundtracker etc.
+0,"Hello, thank you for this site."
+0,I was very happy to be able to scan barcodes from the search button and I would like to use this in my application.
+1,The design guidelines should be the law.
+1,"Don't allow ugly interfaces, be stricter on things like navigation, general look and feel, even animation."
+1,"Give developers good explanation what they do wrong, and enforce good design."
+1,"If something is unresponsive, it should not be allowed unless there is a clear and good reason for it."
+1,"Apps should take no longer than 2-3 seconds to start, and need to explain why they would take longer."
+1,Make the marketplace of the highest quality out there!
+1,"Support for WEBGL like the rest of the world - Microsoft have done this too many times - we as MS developers are starting to look stupid 5 years behind on the mobile market - Ballmer ""iPad's are just under powered PC's"", Gates ""the internet is just a fad"" enough admit you are wrong early rather than late it's much easier that way."
+0,The biggest problem I almost exclusively run into when working on WP7 apps is the layout performance of Silverlight.
+0,It's takes quite some effort to work around that problem.
+0,And according to web searches about this problem I felt that I'm not a lone with this.
+0,It'd be great if you would work on a solution to improve the situation.
+1,too often we come across a word in an app we might not know or we just want to confirm the meaning of it we colud look it up right where u r without the need to exit n go in to another app.
+1,with this mod we can enjoy the platform more the than ever before is to make in the landscape like the upcoming windows 8 or like the original tile home screen from up to down or down to up
+1,An address bar should be added to Calendar items to give the location of your appointment/meeting.
+1,This address should be visible on the Bing maps showing you the location of your calendar item.
+1,"Vice versa, you should be able to schedule via the Bing maps, adding a location on the maps and linking it to the Calendar."
+1,Return back a multi-task support (may be optional?) will significal improve advanced users experience.
+0,"In current situation its almost impossible to create some kind of applications, such as different trackers, survilence etc"
+1,A color picker control just like the one in the phone's settings would be really useful for apps which want to offer the user a choice of colors.
+0,"I know I can code one, but it should be one of the standard controls."
+0,The current IE mobile browser doesn't support keyup correctly.
+0,I'd like to show Youtube videos in my app.
+1,"I would like to have control over the size, positioning and playback of a video."
+1,"there should be an option to change the working of these buttons to double click, so that a slight"
+1,"Allow for video camera control, start and stop recording from the touch screen instead of just the camera button."
+1,A demo or prototype category like it exists on Android would solve this issue.
+1,"As of now the number of contacts that can be added to a group is restricted to 20, please remove the cap."
+0,Already music streaming is supported but only for single songs.
+1,would't it be great to add albums to SkyDrive and stream them directly from there.
+1,Prefferably the albums would be integrated in the music & videos hub similarly to jow SkyDrive pictures are integrated in pictures hub
+1,All notifications should exist in a pull down shade in iOS/Android style.
+1,The pull down shade should take on the color theme you have choosen for your phone.
+1,"Notifications should exist within the shade as black tiles and will illustrate the notification type and a short phrase from the email, sms text, facebook/twitter mention, etc."
+1,have a background agent enable all the time to execute an application event not execute them periodically
+0,"Ability to add a custom buttons to system call app, like in screenshots http://bit.ly/incomingScreen http://bit.ly/incallScreen click on button will launch some callback which will access to: 1."
+0,Access to call voice stream in/out 2.
+0,"Access to call controls, can initiate a new call, end exists, etc, all features provided by standard buttons on call page"
+0,"currenty when you hit the Back button from the Folders (in the Mail app), it takes you back to Homescreen."
+0,Please fix this so that it goes back to Inbox (and not exit the app!)
+1,"in addition to the current Alphabetical view, add Sorting options like: Sort by last installed, Sort by recently accessed.. Also it would be nice to have a shortcut screen like the fullscreen blue alphabet tiles, but with dates: 1 day ago, 1 week ago, 2 weeks ago..."
+0,"Doing something like the actual WebBrowserTask, but with Uri pointing to file in IsolatedStorage"
+1,Add a method to run another app passing params.
+1,there should be a function to costumise the tile depending on mood
+0,"if the homescreen's tile automaticaly arranged in recent , most used, favart, and latest updated."
+0,then it would be better
+1,"Let us buy internet, free sms or minutes in our career codes."
+1,Let us call codes *...# I think it's one of the most important things here.
+1,"Support for word wrap or something would let us give more meaningful titles to our apps, with less app title duplications."
+1,The ability to broadcast and bind sockets to a port would be handy for making local client <=> server applications where you don't need to specify the server IP.
+1,We want a clean and simple interface which WORKS.
+0,"I, for example, wrote four applications in about two days."
+0,Getting them all published took me over three months.
+0,It's just not right.
+0,The process (particularly for someone under the age of 18) of getting a Dreamspark account (particularly now that you've messed up that website) and an App Hub account is absolutely awful._æ_ more
+0,windows phone dev is powerless without low level api to access drivers or add features to phone
+0,I have developed an app which plays audio using the BackgroundAudioPlayer.
+0,"If I am listening to audio over Bluetooth and I pause the audio, if the Bluetooth device disconnects, the audio resumes playing."
+0,"I run continous background processing in my app (frequency analysis of the mic, if anyone cares)."
+1,I'd like to control the priority of this background thread to make the user experience better.
+1,"We note that microsoft bought Skype, so we need an app that includes Facebook chat, Skype chat, video call and normal calling."
+0,Enterprise feature
+0,calendar functionality does not allow for specifying end date for meeting or appointment.
+1,Bring back reccurrence from wm 6.5 where you could create complex meeting schedules
+0,Then i can write an App to simulate a Keyboard or a mouse and don't need software on PC.
+1,"In SDK give an UI explorer view for Isolated Storage to download, upload isolated storage files from device to desktop."
+0,This will help in testing out and debugging applications which use Isolated storage significantly.
+0,"it is not possible to send an email with an attachement, i.e."
+0,when applying for a job.
+0,"A faster way to switch between vibration on and off than having to open settings, ringtones+sounds."
+1,It would be nice with a switcher on the volume control like the button ring/silent.
+1,"Android gives you the capability to zee how much storage a particular app uses, we could really do with this. "
+0,when ever i make a call my phone's screen goes dark even if im not puting it on my ears.
+0,Ive read alot of concerns regarding this problem.
+0,why shouldn't I as user be able to see reviews made by people from other countries??
+0,"Here in Denmark there aren't that many wp users yet, so a lot of apps will show up in the marketplace without any reviews, -even though you can see in apptracker that there exist some reviews..."
+0,to sell phones with qwerty sliding like HTC 7 Pro Arrive while OS is not providing landscape for all apps is something between ridicolous and unfair.
+0,When you enter a wrong word in the keyboard dictionary (e.g .while typing in word)
+0,the only way to remove it is to clear the full dictionary (by using keyboard / typing settings/ reset suggestions)
+1,We need a way to select the word(s) we want to delete
+0,Control to send desired picture to native pinch to zoom controller.
+0,One line of code to enable native picture viewer with pinch-to-zoom.
+1,Instead of having to tap the screen you should have the choice of locking it at the top of the screen.
+1,"Tuenti is a social network as Facebook (in Spanish or English or Catalan), it would be very useful for spanish people or south americans or people who have signed up on it, to have it (integrated) into the people hub."
+0,"I have a lot spanish friends who have hesitated to buy a Windows phone (and finally didn't buy it) because their favourite social network wasn't neither on the marketplace, neither on the people hub"
+1,android has the pull down notification area well we should have a live tile where all notifications come in so if ur using an app n its not pin to ur start screen u can still know when u have a notification.
+0,"possibility of viewer and writter .rar files, and native support .rar would good job"
+1,"The built-in support for some DPWS devices would be nice, especially printing to WSD printers (or capturing images from WSD scanners) would be a significant feature."
+1,Implementing such protocol is not impossible and printing from applications would be welcome not only by developers but by end users as well - once available in Office applications etc.
+1,"If phone is lost allow remotely setting custom message on the lock screen, i.e. contact information."
+0,As for now the PictureDecoder can only decode JPG and run on the UI thread.
+1,I am especially thinking about tile generation on background agents : I'd like to have an enriched PictureDecoder able to run on any thread and decode PNG as well.
+0,"extended ability to highlight text or links within apps such as Facebook and Twitter for copy paste, individual text/word highlight of a text bubble with the WP7 txts."
+0,"improoved text edit cursor positioning, when highlighting text close to the top of the screeb or too far down, the scrolling plays up anf makes it awkward to get it right."
+0,wifi data transfer wp7 to wp7
+0,The ability for applications to follow the data connection of the device (especially Edge/3G etc.)
+0,"if they run as background tasks with live tiles, as most carriers provide limited amount of connection"
+0,We can able to call Managed code functionality in silver light 3.
+0,But in windows Phone for silverlight dosnt provide the dll System Windows Browser.
+0,Better Multitasking with the ability to have background applications on.
+0,Example I am playing a game and i pause and want to play later.
+0,"Then i want to use my phone as usual, go in to other apps and that kind of stuff."
+0,"Then later when i want to continue playing from where I paused I hold the back button and i see that game is open in the background, not only the 6 latest apps."
+1,"It would be really cool if developers could get api access to Xbox Live Gamertags, that way they don't have to make users create a new account just to play multiplayer games."
+0,It would also help a lot for leaderboards too.
+0,"If you look at all of the most popular programs in any field (Photoshop, Office, Chrome, etc..) one thing is always constant and that is 3rd party extensability."
+0,Bring this to Windows phone to all native apps.
+1,"Instead of making a new camera app, allow me to extend the native one."
+0,"Bring this to all of the native apps including office, the dialer, people hub, etc..."
+0,TAB is usefull to jump from textbox to another e.g.
+0,in the registration forms using only the keyboard.
+0,Arrows keys to move easly throught the text!
+0,When you have more than 5 Groups you need to scroll down in case you want to find a single Contact.
+0,The [A-Z]-Button should open the Letter-grid to jump to the desired point in the list.
+0,i would like it to work just like the walgreens app
+1,The mango way to switch between tab is slow as .... so please implement a quicker way to do that or roll back to the previous IE's chrome.
+0,greater permission to manage the music.
+1,"help define the current position of the current music with the mediaplayer Zune ""seek position""."
+0,"to obtain another possibilities to move in the music as the default button ""fast forward""."
+0,"In a windows desktop, ALT+TAB is used to switch quickly between apps."
+0,We need something just as fast in WP7.
+1,"One suggestion is: Double tap home icon quickly, to see the list of open apps - as shown currently."
+0,This is faster than holding down the Back key for some time.
+1,zune payer should support custome codec plugin so one can play any format.
+1,Please expand the MessageBoxButton option in Silverlight to include a Yes/No or Yes/No/Cancel option.
+1,It would be nice to have a modal control that is standard between applications with additional user choices available.
+1,the mutitasking area should have every app that you have opened in it.
+1,The last five should be frozen and any more than that should have to restarted.
+1,To close an app the user should be able to use her/his finger to flick it upwards WebOS style.
+1,"In addition, the user should be able to take a screenshot within the multitasking area by using a finger gesture to drag the app towarda the bottom of the screen, a screen capture icon should appear and the outer edges of the icon should fill with green and onve the edges are_æ_ more"
+1,It will be very useful if you can asign a static IP
+0,IPv6 begins to be widely supported.
+0,It was available in WM6.5 (and older) so it would be great to see this included in WP7 (and later)
+1,allow sync of ms exchange notes
+1,"because push notifications can easily go unnoticeable, there should be a history in the ""me"" tile that will also tell you if you missed something."
+0,Tile counts are nice but I dont have every app pinned nor do I want it that way.
+0,Just a history for one days notifications would be enough.
+1,"It would be really nice to have a ""Share"" task that I could pass a stream to, in order to share an image."
+0,This task could bring up the same interface when I share an photo from my pictures library.
+0,It would make it simple to share photos to facebook and twitter if the user already has it setup.
+0,It would also make it possible to finally share photos via sms and email programmatically.
+0,"Examples: Google should be able to add Google+ support to me, people hubs."
+0,Amazon should be able to integrate their cloud music seamlessly with music+video hub.
+0,Flickr should be able to integrate with picture hub.
+1,When searching in the market you should be able to open the app if already installed.
+1,"Please provide APIs for call forwarding and other call management functions(hold/unhold,swap,conference,etc)"
+1,"As a user, I would like to be able to select songs that I have put on the device (from my library) to wake up to."
+0,"As a developer, I can only allow the user to choose from songs that I included with the app."
+0,The main work-around I've seen in the various alarm clock apps is to force the user to keep the app open over night which is not particularly awesome for battery life.
+1,Add an option to customize the size of Pictures uploaded to Skydrive or send via mail.
+1,Also add an option to autoupload full images tu Skydrive and not only 718x538 px as preset on the lumia 800.
+0,"Right now, you can start apps by holding down the Windows button and saying ""start appname""."
+1,"It would be great if you could start an app while adding some instructions, for example: ""Facebook, show me messages"" ""Office, create new Word document"" ""Prime TV, mark House Season 1 Episode 4 as watched"""
+0,"when holding my phone in one hand, the palm of my hand just below my thumb come very close to the search button and a stretch to far can often send me off to the search function while i am texting or writing an email."
+0,is there any possibilty that these 3 controls can somehow be made less sensitive or become a more mechanical click?
+0,"The touchmove event is called only once, when I move my finger across the screen."
+0,So I can't create complex HTML pages with a fixed header and a scrollable content.
+0,I will move the content per javascript but I can not because the touchmove event is not triggered.
+1,Please implement the whole TouchApi in the Internet Explorer and the WebBrowser Control.
+0,This is VERY IMPORTANT for mobile websites because iPhone and Android support this.
+0,Emails are non editable while
+0,Enable picture password as in Windows 8.
+0,deleting multiple for sms as email services
+0,"I am thinking about a SDK to allow me to create an ""account app""."
+1,"So like google, facebook, linkedin I want to create contacts, calendar and access to message hub (also writing messages with my account)."
+1,Marketplace upload of this kind should be more restricted to avoid problems.
+0,"When I'm reading a web page or other document, I would find it incredibly useful to be able to jump to the jump of the document without endless swiping."
+0,if more elements one day.
+0,We cant see the other:(
+0,it is slightly fustrating when one or two screenshots take longer to load and you cannot skip them while swiping through the images.
+0,Like windows mobile 6.5 and older version.
+0,"Currently, you can only have the review page from the app list with the contextual menu."
+1,"It will be pleasant to go the main page of the app in the marketplace to see the general pr©sentation, screenshots & the other users reviews"
+1,add capability to enter manual parametets for visual voicemail
+0,currently in the all applications view tge jumplist appears only when there are more than 40 apps.
+1,i have about 30 apps and it is already difficult to find an app ...i think the jumplist shuld be always available.
+0,I believe scrolling should be improved.
+0,"As sometimes when users are viewing a long document, they sometimes might want to skip to the middle/lower section."
+0,But scrolling seems to take a little long..
+0,"Thus, this idea is actually for the developers to make scrolling faster after each subsequent scroll, like every 5 scrolls the scrolling speed will increase.."
+1,"ensure that we can buy clips, movies and videos directly to WP7 without necessarily going through a PC"
+0,Swipe from the top down with two fingers and flick through the last closed app as seen in Windows 8.
+0,"For instance, email and messaging notifications could be silenced at night, whilst call ringtones would function as normal."
+0,by benchmarking a developer a good developer work.
+0,it will encourage a developer to design better apps and it makes very easy for customers to choose the right apps ibstead of selectibg some poorly designed apps and wasting the time..
+1,I see many developers can be benefited from text2speech api.
+0,It can also bring in whole range of new apps for windows phone.
+0,"In Android For C2DM , Google is providing free account and restrict number of messages per day."
+1,Supporting Windows Authentication could be very usefull for example writing app that interacts with Microsoft Dynamics CRM
+0,currently only a defined set of extensions are supported for files to upload to SkyDrive using the new live API which limit really the usage of the API.
+0,For example my app can export .CSV files and I had to rename their extensions to .TXT to be able to upload them to SkyDrive using the live API.
+1,The language should be a search critreria for apps and games.
+0,The non-english marketplaces are filled with apps that support only english and it is hard to find apps in my native language.
+1,If it's MS Windows Phone then make it as a part of the network.
+0,Will see all shared resources.
+0,One shared folder can be set on phone device.
+0,Easy to access and transfer on both sides PC-Phone.
+1,A business feature that would be really nice to have support for it the ability to tie into a VoIP network for voip phone calls... the most common architecture is the SIP (Session Initiation Protocol).
+1,So I would like the ability to configure a SIP client that ties into our VoIP PBX and phone system.. so my WP7 would basically become my desk phone (extension).
+0,The only way this would really work well is if it ran in the background like the phone's native phone functionality.
+1,If there is an app developer the a customer lukes i'd be good to see everything that they have made.
+0,"Full (or almost) Entity Framework support, including graphic class designer and interop with regular EF assemblies, making it easy for developers to reuse model and persistence classes in the phone, without the need to redo all the work in Linq and some nasty tricks."
+1,It would be nice to have the Deployment ability on my home PC able to be done wirelessly.
+0,"This includes deploying in Visual Studio while developing, and using the Application Deployment Tool that is installed w/ the dev tools."
+0,"For me, the benefit would be that when I don't have a microUSB cable handy, I can still dev and deploy to my phone to try something out, or deploy my friend's XAP to my phone w/o having to go find a cable first."
+0,"This could be implemented via WiFi, of course (since Zune does wireless Sync already), or even Bluetooth once we get Bluetooth data transfer ability."
+0,Wp7.5 lacks USB audio functionality with Microsoft Sync in cars.
+0,Bluetooth playing audio is very limited.
+1,Requesting MTP and mass storage functionality since competitors like iPhone are able to do all this already with Sync.
+0,"In IsolatedStorage ,image file can save to local MediaLibrary,why not record wave file can not?"
+0,too slow and too little possibilities
+0,I took a while until I realized that I forgot {StaticResource} within the Style attribute...
+0,It's very hard to create application supporting multiple languages.
+1,"Give functionalities like Resource manager, as given by IDE of other platforms."
+1,Managing resources and folder structure for them should be made easier.
+1,make an EQ for the mp3 player...at the moment the volume it's really low
+0,Curently 20 persons max.
+1,"Please enable pinning of the ""Wi-Fi"" settings on Start page."
+1,SplashScreenImageLight and SplashScreenImageDark would be great!
+1,"After that, it would be great to have the option to select an image from IsolatedStorage so that my app can update its splash screen image as needed."
+1,Make it so that a meteo style app would only need to adapt its UI to run on Windows phone.
+1,It would also be nice to have to deploy only one package to the marketplace but only the needed bits would be tranfered.
+1,Add movies and books would be an excellent addition for the system !
+1,"Enable Speech Command to play songs selection by saying ""play song name"", ""play artist"", ""play album""."
+1,I believe the single most important thing for Windows Phone to be successful is that users in all countries should have the same services available.
+1,Now when the marketplace has become available it would be great if users in other countries than US could migrate their accounts to the country they really live in.
+1,"Since windows phones are selling hot in countries like India, browser should start displaying Indian language characters."
+1,Allow user to set different accent colors for different tiles.
+1,"we should have small tiles instead of a long list of apps of which you downloaded, like android and ios."
+1,An app should be able to publish a service that is disvoerable and consumable by other apps.
+1,"For example, if I have an app that can process images, I want other apps to be able to dicover my app and submit photos for me to process."
+1,I would like access to a stream for music played via the media library.
+1,"i wish the functionality to access and synchronize the public folder from exchange, e.g. the public contacts or the calendar."
+1,"For a lovely breakfast, turn left out of the front entrance - on the next corner is a cafe with fresh baked breads and cooked meals."
+1,If you catch them right your in a 4 star hotel - if not -your going to get pot luck on some services.
+1,and travelers should avoid it if they are looking for an upmarket hotel in Amsterdam.
+1,On thing I liked was just a block away was an Albert Heijn grocery store for picking up an odd room snack or soda so you don't have to pay $5.00 from the mini bar.
+1,"Might be a good place for tourists, but try another place if you are in Amsterdam on business."
+1,"However, people should know that the rating in Amsterdam is different."
+1,If you want something a bit different I am sure you will find a Bed and Breakfast of better quality at a fraction of the price.
+1,the cafe off the main lobby is expensive for coffee - plenty of local nice places on the 9 Streets which are literally on the next block down;
+1,"Also, the hotel would be advised to forget the waffles, chocolate and water freebies and provide tea and coffee making facilities."
+1,"If you can stay on the TOP floor, I highly recommend this hotel."
+1,"I have yet to email the hotel and see what repsonse I get, however, if you do stay here I would suggest you check the bed first before opening your luggage."
+1,I would highly recommend this hotel if you are staying in Amesterdam.
+1,One important item that is not mentioned on their website is that a trolly runs close by from the central train station.
+1,"If you take the train from the Airport(very easy), you get off at Central Station and catch the #2 trolly."
+1,"ps try the all you can eat ribs at the sing singel pub, turn right when you leave the hotel and keep walking you will find the pub on the right approx 200 yds."
+1,"In closing i would go to the other NS hotel down the road which belongs to the same group looked a lot better of the Botel if you want location at a small cost, its a real rip off here"
+1,and you should visit it even if you dont stay in the hotel.
+1,"If you don't like where you're at, ask to change."
+1,When in the adjacent building you have to go through an alleyway so bring your coat even when going for beakfast.
+1,and when you have to many shopping bags just pop back to hotel drop them off and back across the road for more spending.
+1,The breakfast room is in the old winter garden which is a lovely ornate room with a very relaxed atmosphere You don't need much for lunch after that.
+1,and curtains could do with a splash of colour.
+1,I recommend you keep wandering right past them to the Pulitzer or the Dylan.
+1,"However there are plenty of hotels around there, which would certainly do more in every aspect than only acclaiming its history, reputation and services on pamphlets."
+1,but if you are expecting a mid range 4 star or high end 3 star then this is your place.
+1,Make sure you take your bike!
+1,The public areas are those you would expect from a 2-3 star hotel - all again in need of a major updating.
+1,"If you get to go there, have a look at the canopy outside the main entrance, its patched up with sellotape!!"
+1,"less than 10 minute walk from Central Station,many restaurants within walking distance,and always a lot going on right outside in Dam Square to people watch."
+1,"When you check-in, be aware that if you are given a room in the back of the hotel, reachable through elevator #5, you are going to have a terrible experience."
+1,"If you don't want to spend that much, there are a few places that sell bread, croissants and rolls just a few meters from the hotel (especially on Damrak)."
+1,"Otherwise the department store that is just outside the hotel (on the right, looking at the Royal Palace) has a nice cafeteria."
+1,A short walk to the front gets you to the Leidse Square
+1,If you want anything else you have to go there now and take it from the buffet.
+1,"The comforter, drapes and furniture were in need of replacement."
+1,The city centre is a short walk away along a pedestrianised street or you can take a tram.
+1,and if you have booked I would strongly recommend that you check your bill carefully when checking out and don't choose the express checkout option.
+1,Do not let the online travel sites fool you.
+1,"Also when asking for a wake-up call, be aware that it won't be a call"
+1,Don't even waste your time arguing with the administration.
+1,"We didn't eat at all in the hotel, but in a nice italian restaurant (if you stand facing the hotel, turn right and you'll find it up a side street)."
+1,"If you turn left when exiting the hotel you can expect to find a prettier, quieter, more picturesque side of Amsterdam with nicer cafes, bars and restaurants offering more reasonable prices for better food and drink."
+1,Guests should know all of these facts before choosing to book this hotel.
+1,If you can get past the receptionists and get the room you booked I think you will be hard pushed to find fault with this hotel.
+1,the carpets and furniture are in need of renewal.
+1,however there are plenty of other places within walking distance which offer cheaper alternatives.
+1,Ask at the front desk for the coupon and they will be happy to give you this.
+1,"If you are looking for the convenience of this hotel's location across from the train station, be aware that this is a particularly seedy, dangerous area."
+1,"If you want to me near the station but in a safer, better hotel, you should definitely pay a little more to stay at the Renaissance about 1 block away."
+1,and I would not recommend a stay in this hotel.
+1,"The hotels location was great especially when you are arriving via train, just oppsite the train station and at the start of damark street."
+1,I'd recommend that you avoid it altogether and get it in a local cafe.
+1,and really touristy squares to feel really relaxed (although there is a sqaure with all this only a block away if you want it).
+1,"Word of note, if you want the mini bar restocked, make sure you let the cleaners know you want your room cleaned/drinks restocked!"
+1,Would highly recommend and will be staying there again for definite.
+1,and you should definitely go to the Dutch restaurant they recommend round the corner.
+1,but you can always specify which you prefer when you book.
+1,With everything being complimentary from the breakfast to the drinks we can not recommend this hotel highly enough.
+1,"The breakfastbuffet was comprehensive, and could be supplemented by made-to-order eggs, pancakes, omelets, or French toast."
+1,"Do yourself a favor and have an Indonesian dinner at Tempo Doeloe, Utrechtestraat 75. Try a rice platter which includes portions of 18 different dishes."
+1,"yes they are if you want to drink cheap Cava, cheap white wine and cheap red wine."
+1,"Be sure to meet Kevin at the front desk, he knows just about everything concerning your stay in AMS."
+1,Dont let the expensive prices dupe you into thinking you will be staying at a deluxe hotel it is  re assuringly expensive The staff are few and far between.
+1,"You might not get the same high class amenities that are offered in some of the bigger chains, but if you want to stay somewhere that makes you feel at home from the moment that you walk in the door,"
+1,"The room was small, and a little noisy (it was at the front of the hotel next to the main road), if you get a chance ask for a room with a canal view as it will be on the side of the hotel where there's less traffic."
+1,"If you plan on sitting in your room for most of your stay while in Amsterdam then stay elsewhere, but if you want a good, clean hotel to be used as a place to sleep/base while exploring the city then you can't go wrong with the Nadia."
+1,but a deposit gives you that piece of mind (just a suggestion).
+1,"One place you must visit is the Ice Bar - 15 euros and includes a drink,"
+1,If you have spare time go on the half day trip to the windmills of Zaanse Sans and then onto the cheese factory (don't buy the cheese - if you really want some its half price at airport) and then to fishing village of Volendam.
+1,"the hotel was run by friendly staff and the rooms where cleaned daily, rooms where reasonably priced and comfortable, if your considering stopping then you have no worries that you will be dissapointed."
+1,The hotel is ideally located with a great view of Westerkirk church and within easy walking distance to some worthwhile stops such as the Anne Frank House  the Theater museum.
+1,"For the price, I would definitely stay there again, but recommend a room without a view, as they are quieter."
+1,"If you're on a budget, this place is fine."
+1,Before considering the Hotel Nadia you must consider Amsterdam as a whole.
+1,If you are deciding on which hotel to stay at and are concerned about the size or layout of the hotel then you simply must realise that this is Amsterdam
+1,There are also some lovely boutique shops two minutes away along the canal.
+1,If you are looking for a flashy sterile five star hotel then this probably isn't the place for you.
+1,Would recommend a stay at the Nadia for anyone travelling to Amsterdam.
+1,"Good clothes shopping to be done in Kalverstraat & Nieuwendijk, just off the Dam Square and there is a good tattoo artist in Gravenstraat too ;) ."
+1,"If you are a Miffy fan (called 'Nintje' in Holland, and created there) take the no. 5 tram to the Miffy shop (called De Winkel van Nijntje) at Beethovenstraat."
+1,If you are travelling alone - please don't stay at this Hotel.
+1,"If you sleep lightly, this would be a problem because of all the trams that go by - so ask for an interior room."
+1,and older travellers ought to beware of the extremely steep steps that lead up to the reception and rooms.
+1,"You would be right next to shopping areas, canal tours, madamme tussauds, close to red light district and anne frank house."
+1,There is a very nice take away sandwich shop near by.
+1,"For business use, it was fine (and there's a free computer room for guests on the 1st floor), but if you're there for tourism you might want something with some character."
+1,"rooms have everything you could want; there's free internet access, which is useful if you want info on local attractions, train times, etc  free 'phone calls - again useful to confirm local arrangements."
+1,A great place to stay especially if you want quick access to the Rijks and/or Van Gogh museums.
+1,"the pub the ""Last Waterhole"" is a great spot if you want to hear live bands & theres lots of different places to eat - Hotel V staff were very friendly and helpful,"
+1,and if you go to a supermarket on the Ramblas called Carrefour you can stock up on the same brand of water the hotel puts in the minibar.
+1,And beware of the packages you purchase.
+1,but unless your can swim in 2 inches of water dont expect to go too deep in the roof top pool
+1,We recommend this hotel for people looking for a good 5 stars hotel in the center of Barcelona.
+1,"If you want only a location then this hotel is your best bet in Barcelona for a shopping and walking around location, it's in the middle of all the main shops and restaurants...."
+1,There is a coffee/pastry house just across the street.
+1,"Having had a look at the better rooms, I would suggest only staying here if you were prepared to pay the extra for an upgraded room."
+1,"If you want good service and a good all round experience, stay elsewhere."
+1,"Quality breakfast with good choice of food (if you're after a full-English breakfast, don't eat here)."
+1,"If you're looking for a central hotel with that special something, then I recommend the Majestic."
+1,"and (if the weather is good), the rooftop terrace is a great addition (although the pool is probably better for kids to splash in rather than trying to actually swim in)."
+1,"If you are trying to decide between the Claris and the Majestic, I would definitely recommend the Claris."
+1,Preview your room if you must stay!
+1,"Please refrain from using your renovation as an excuse for doing such a lousy job and consider lowering your rating for what it's worth, 2* maybe 3 and nothing more."
+1,"Please, whatever you do, spend your money elsewhere."
+1,"My summary - despite its wonderful location, the facilities of this hotel represent vary poor value for money (suggest you try the Hotel des Arts) - by no stretch of the imagination do they equate to five star."
+1,Be prepared to pay 4 Euro for an in-room coffee made yourself by the coffeemaker in the room (and then add the tax to it) or 7 Euro for a coke taken from you minibar (again without the tax).
+1,"and it would be highly suggested to get out and look at some leading places such as : Malmaison, Hotel du Vin and Sofitel, which yes do charge your sort of high prices, but do deliver an exceptional service,"
+1,"or you can stroll to Las Ramblas in 30 minutes, mostly along the beach."
+1,"If they could improve the service, this would be a top hotel even on a world-level standard."
+1, beware of the many pickpockets in the area
+1,"The hotel is near the Marina, which is great if you want to be near the beach, but is not in the centre of things..."
+1,and you can buy glorious fresh produce from the market and not pay for city priced meals at or around the hotel.
+1,In-room tea and coffee facilities would be a bonus..
+1,"If you like to iron your clothes before an evening out, take a travel iron as the hotel does not have one you can use."
+1,Also take a travel kettle as the rooms do not have tea/coffee making facilities.
+1,Use the Aerobus to and from the airport - cheaper and less hassle that the Metro.
+1,"Tho some rooms don't necessarily have a view, so ask for one at the front of the building (but this will be noisier if you leave the windows open)."
+1,If you like Art Nouveau this is the place for you.
+1,"Overall not a bad hotel, smart, clean and helpful staff, if you do stay here be sure to lock everything in the safe!"
+1,one for you and the hotel keep the other and these are big enough for a laptop - I would recommend using them and not leaving anything lying around.
+1,"Go one stop to Drassanes and you'll find yourself down by the port and Mare Magnum shopping centre, where there's plenty of restaurants on offer."
+1,Plenty to see and do and for a reasonable price if you plan wisely.
+1,There's plenty of websites with constantly changing deals on hotels (we booked through hotels.com) plus flights with Easyjet lower your overall cost too (we got return flights for ____90 each).
+1,It is overly expensive unless you stay off the main strip
+1,"If your sleep is important to you, we would not recommend this hotel."
+1,"If you do go, and we won't be going back, please be very careful."
+1,So you must keep the windows closed.
+1,"If you make an online reservation, it is impossible to mention that you travel with children."
+1,"Take the advice of having breakfast at the hotel to the left... much better, a quarter of the price and a nice atmosphere."
+1,"If we return to Barcelona, we will definitely stay at Hotel Barcelona Universal again and would highly recommend it to anyone."
+1,There is a free office facility on the 9th floor (2 PCs and printers) which might prove handy to you.
+1,"A bit noisy if you have a street-side room, but with the windows closed the noise is well insulated."
+1,"And a word to the wise: if any restaurant has pictures of the food outside, keep well away."
+1,"We wouldn't go back there or recommend it because it simply was just average,"
+1,"There is a very nice business center on the 9th floor where you can do your flight check ins,"
+1,"The metro stop is close at hand as well, handy for visiting all the spots."
+1,You need to read this if you are thinking of staying at this hotel.
+1,and any other business owner would agree that some sort of action should be taken by the owner of this hotel for his guests.
+1,Also remember to bring your own travel iron as the hotel does not have one.
+1,"If you're looking for a nice, clean hotel, this is not the one for you!"
+1,"For a great light meal,breakfast or lunch, it was great to wander down to the large market and get beautiful large fresh strawberries and wonderful pastries from the vendors."
+1,"that being said, do stay here, but make sure that if you do, as you look at the hotel from the front, only stay on the left hand side looking onto the city rather than the harbour,"
+1,"Not recommended to people with a back, good hearing or thoughs who wish to wash beyond that it is a very nice expencive and convenient hotel in which to stay."
+1,"But unless you're boarding a cruise ship, or maybe if it's the middle of summer; I'd choose differently."
+1,A relaxing and very friendly bar lounge and a roof top area that would be great in summer - just a little cool in the December sunshine.
+1,"Just be aware it is a big tourist city and keep your wits about you - don't flaunt money or cameras, etc.."
+1,"but if you just accept this as some city quirk and let it go over your head,"
+1,"One tip - check your change, as many waiters and taxi drivers decide what tip you are giving before you have thought about it and take it upfront !!"
+1,"If you want to drink bottled water, take in your own."
+1,"Great for travelers arriving by train, just a short walk across the plaza, but also good for those arriving by car from southern points as you just have to turn right off of Diagonal onto Numancia and go down a few blocks."
+1,"This is a large, contemporary hotel, so if you are looking for quaint, typically Spanish style, you might try elsewhere."
+1,"Regarding security, if you are sensible Barcelona is no more dangerous than London, Manchester, Leeds etc. I wear Rohan or Meyer trousers both of which have zipped security pockets inside a front pocket, where I keep some money for the day."
+1,For the price and area they should include breakfast at least.
+1,If you want good food go to the Attic near the top end of the Ramblers.
+1,"If you're looking for a great meal out in a modern, chic setting, this is the place for you."
+1,"If you fancy a stroll, you can be at La Rambla in 30 minutes."
+1,no real pool so wouldnt recommend the Hotel for a family with small children if a swimming pool is a necessity.
+1,it also made a bit of noise so if you're a light sleeper you may fine your sleep disturbed.
+1,Ask for a room on as high a floor as possible as you will get great views of the city and surrounding area.
+1,Otherwise just go up between meals and get a few snaps if you want them.
+1,"If you want go this hotel, don`t leave your money out of your sight!"
+1,But if you have any trouble with your sleep think what I just wrote above.
+1,"Would recommend the Pulitzer Hotel to any-one going to Barcelona,go on book it now!"
+1,"In summary, if style is all you need, great -- but there are better options that are just as cool."
+1,"Anyway, please don't let this put you off this very good hotel."
+1,But get a room above the fourth floor!!
+1,"The property is an easy walk to Passeig de Gracia, La Ramblas, and even the beach is not a difficult hike."
+1,The only warning to people generally about Barcelona is that the shopping is incredibly good - perhaps amongst the best shopping cities in the world - so beware the smoking credit card!
+1,You need to stay in the Gotica area away from La Ramblas.
+1,Try and get a higher floor.
+1,So be sure to bring your own adapters.
+1,"While you are there, stop at Farggi's and have a gelato, it's really good."
+1,"and materials you can see it's all cheap decor (doorframe is a plastic material), but if that crap doesn't matter to you it should be no problem."
+1,"Pool is great for a midday break between trips around the city, with great views and lots of sun chairs,"
+1,"Not too much to say which has not already been said, nice, clean and very enjoyable stay, would recommend this hotel very good location and service spot on."
+1,"Other travel tips:Sagrada Familia: take the elevator with the shorter line, to the right of the entrance (easy to miss this one bec you get swept into the church with the rest of the crowds to the opposite elevator)."
+1,Go between 6 and 7pm when the crowds have thinned.
+1,but you may tell him to stop serving or your bill will surprise you.
+1,We would recommend a taxi from the airport for a 'no fuss/bother' way to reach the hotel.
+1,and El Raco restaurant is also recommended (turn right at the front door).
+1,Ask for a room on a higher floor but don't worry if you don't get it.
+1,there are also other/ better hotel options than this one in the area.
+1,Would recommend breakfast/drinks at the bar opposite (d'Or) as reasonably priced and very friendly staff.
+1,Would recommend a visit to the hotel roof - pool looked inviting and plenty of sun loungers.
+1,"Would definitely recommend you see the following: Sagrada Familia, Casa Batillo, La Pedera and Pablo Espanlo."
+1,Give yourself plenty of time to see each as you will be suprised by the amount of time spent in each.
+1,"Downside: shower needs longer barrier (taking a shower means creating a small flood), need more soap for 2 people, haphazard replenishment of toiletries."
+1,"Do visit the Gaudi houses - Casa Batllo is stunning,"
+1,Be warned though - the last half of that is up a steep slope.
+1,If you're a student take your NUS card to get discounts on entrance fees.
+1,Visit the Boqueria market just off Las Ramblas - the fruit and veg in particular is an amazing sight.
+1,If you have been to Barcelona and know how to get around-this is a great hotel.
+1,I would suggest that you take some ear plugs if you intend staying here!
+1,"The breakfast buffet has a diverse range, and is good value if included in your booking."
+1,and it's just a short walk round to La Rambla and a couple of blocks down on the right you'll find the hotel.
+1,There is also a Starbucks attached to the hotel if you just fancy a coffee and a muffin one morning.
+1,"So, either make sure you give youself plenty of time to graze or head out to one of the coffee bars in the area to grab a coffee  pastry."
+1,"If you're looking for a great - and cheap - seafood restaurant, then try La Paradeta on C/Comercial 7 about a 15 minute walk from the hotel."
+1,"Choose from glistening mounds of clams, mussels, squid, spider crabs and whatever else the boats have brought in, let them know how you'd like it cooked (grilled, steamed or a la marinera), pick a sauce, buy a drink and wait for your number to be called."
+1,but don't ask the staff for tips or advice and make sure they don't put you into one of the small and dark corner rooms on the inner courtyard.
+1,and there are plenty of cafes nearby - there's a Starbucks next door for those craving a caffeine fix and a number of small supermercados nearby for picking up water/drinks for cheaper than the mini bar.
+1,"Please check out my pics, so you can see what the rooms look like."
+1,"If you want to stay here make sure you pay the extra supplements for the ""good"" rooms."
+1,and you have to hold down the button continually to keep the dryer on.
+1,"The breakfast was excellent, but try and track down a BB rate."
+1,Just walk 5 yards onto Ramblas and hail one - never took me longer than 30 seconds.
+1,and I would recommend taking the time to enjoy a leisurely breakfast in the dining room which over looks the Rambalas.
+1,"However if your looking to relax and get a decent sleep, be careful as we didnt !"
+1,The Patagonia is definitely worth a visit - beef to die for!
+1,I would recommend asking for a room with a window to the outside.
+1,"In relation to Placa de Catalunya and La Rambla the hotel is less than 5 minutes walk to each, plus there's a tourist information office just another couple minutes walk on La Rambla."
+1,- there was some street noise in our room on the second floor - people during the night and traffic (seemed to be a lot of trucks loading and unloading) during the day so earplugs are recommended if you're a light sleeper; and - the lifts take an age to a
+1,"But overall I'd recommend this to travellers, especially younger travellers who like somewhere more upmarket than the hostels who might appreciate the modernity and basic aesthetic of the place."
+1,If you want to be hunkered down in a bubble - where no one bothers you and you don't care about the true Parisien lifestyle - sure - stay here.
+1,"Pleasant staff, pleasant public rooms, pleasant breakfast BUT if you stay here do not stay in a standard double room-- either stay in a superior room or suite or go to another hotel."
+1,you can spend quite a lot of time in your hotel but still have a drink or just be out of your room.
+1,"Do check out a gem of a restaurant called La Carre around the corenr from the hotel, delightful good and friendly service."
+1,There is only one desk attendant at any one time - so don't expect a porter to help with luggage (they don't offer either).
+1,"Skip the breakfast, the bakery right downstairs is great - it opens at 7am though."
+1,I don't think it would be worth paying for a bigger corner room as you'll want to be out all day visiting Paris.
+1,"but there are many other hotels nearby, and if you make your reservation well in advance (which we didn't do),"
+1,you can have plenty of choice and definitely pick a better option.
+1,I would also print of a detailed map of the location.
+1,Subway is very easy to use  2 euro for each ride or less if you buy a carnat of 10 tickets.
+1,There are a number of reasonably priced restaurants on Place du Marche Saint-Honore which is only a couple of short blocks from the hotel.
+1,and that is one of the rooms is located next to a very busy restaurant / bar (Room 115) avoid this room or bring sleeping tablets.
+1,I would suggest another hotel if you want to sleep past 7:00.
+1,"Right around the corner, about a five minute walk away, is a wonderful boulangerie, cheese shop, green grocer, wine shop and bistro."
+1,You can easily walk to Notre Dame or the Pantheon from this hotel.
+1,There are loads of cafes which offer breakfast at the same price as the hotel in the area.
+1,"and a small grocery store around the corner so it is much, much cheaper to buy your own breakfasts,"
+1,store in the fridge and have what youy want instead of the standard fare.
+1,There is a fresh food market at the Maubert-Mutualit____ Metro stop three times a week.
+1,"But if the main woman isn't at the front desk, forget about helpful dinner directions."
+1,"This hotel is a good basic choice if you you just want a clean, safe place from which to visit the sites."
+1,If you want a fancy lobby and lounge it's a 5-10 minute walk to the Ritz or the Westin.
+1,In front of the hotel there is an excellent japanesse restaurant which seems to be a major hit with the locals.
+1,You have all of Paris to explore (bring good walking shoes!).
+1,"A fantastic caf____/boulanger down the street (Ronde du Pains), the Eiffel Tower about a 5-10 minute walk."
+1,"So, if you think that you're going to get one of the good ones for certain just because you book a superior room, DON'T COUNT ON IT!"
+1,"Having gone through the experience, although I never would have imagined saying it, I would recommend staying at a cookie-cutter, boring Ibis for a comparable or cheaper rate."
+1,"If you don't mind some discomfort, this is the right hotel for you."
+1,and my god you had better stock up on juice
+1,The nearest pharmacy is a train ride away - beware.
+1,If you want peace and quiet then this is the place for you -
+1,Keep in mind that the walls at this hotel are very thin.
+1,"Here's a tip: take the Metro to the station Notre Dame de Lorette, and the hotel is immediately up the street and around the corner."
+1,Just search for the station on any of the maps in the metro stations.
+1,"If you are looking for a great meal on the go at an inexpensive price, try a restaurant called Brioche Doree."
+1,there is a supermarket over the road so take your kettle so you can have coffee in your room.
+1,Use the Supermarche across the street for snacks and sodas.
+1,"Also, they are renovating the metro stop closest to the Eiffel until next March, so walking is a nicer option."
+1,"If you are staying in this hotel, DO NOT stay in section C facing the back of the hotel!!!"
+1,"For a cheaper breakfast, right on the corner of Sutter street there is a diner where classic American breakfast is served."
+1,I would definitely recommend this hotel to anyone that was traveling to san francisco (and especially if they're looking to shop!).
+1,"So, don't just look at the ranking, make sure you are staying at a MOTEL, NOT a hotel."
+1,One tip though.... it can be better to go the end of the line/terminus to get a car and join the queue as some are very busy
+1,One suggestion to the hotel - Sounds like being turned away for not having a room available has happened frequently in the past.
+1,This is not the place to stay if you are on a romatice getaway.
+1,and you can get up early and walk all the way to the Golden Gate Bridge.
+1,Don't make the same mistake I did.
+1,There is an abundance of restaurants/cafes/shops etc. Definately try the fresh crab from anywhere on Fishermans Grotto and the fresh clam chowder in a bread bowl from the boudin bakery.
+1,Do a wine country tour it is good to get out of SF and have a few!
+1,Don't miss the complimentary wine tasting at 5pm every day - great way to meet other travellers and enjoy a glass or two.
+1,"If you want to see the Golden Gate Bridge, you can rent bikes or two seater and four seater motorized vehicles from a few places within two or three blocks of the hotel."
+1,We also recommend Polker's for breakfast.
+1,"Nice bar two blocks east, great breakfast one block west on Van Ness where you pay for a great egg/bacon sandwhich."
+1,"If you have a car, you can park here, which is a real bonus in a city where parking is limited."
+1,If I was to give a couple of tips for staying in San Francisco they would be avoid Fishermans wharf unless you like really touristy trash
+1,What a great city --wear comfortable shoes!!!
+1,Overall I would not recommend.
+1,"If you don't read up on it ahead of time, there is a channel on the tv with info about the hotel."
+1,If you want to impress your cab driver - go with the St.
+1,If you need to be directly across the street from Union Square and can't walk even one block (and why you would go to SF if that were the case) - go with the St.
+1,"If you are willing to take the risk and leave your car with this hotel, be prepared to wait 15 minutes for them to retrieve the car."
+1,Don't bother paying for brekkie unless you really want to pig out at the buffet.
+1,They need to watch those food temperatures
+1,I would not hesitate to recommend this hotel to anyone.
+1,"So if you have expectations of having a spa in the winter at this Marriott, forget it!"
+1,I'd probably start booking for a hotel much earlier and chosen a different hotel.
+1,Overall I recommend this hotel.
+1,"There's a little store in front of the hotel where you can get some goodies and snacks and bring them back to your hotel and use the mini fridge to store soda, water, etc. and should help save money from having to use the mini-bar stuff."
+1,"Food prices at the hotel restaurant can be steep (but so are most restaurants at any hotel for that matter)Tips: Eat breakfast at a deli nearby the hotel, cheaper!"
+1,"Also, take a trip to Manly Beach if you have time,"
+1,An early arrival is always fraught with problems (one has little choice about when to arrive due to airline schedules).
+1,"If you don't mind climbing up a small slope, try the Shangri-La."
+1,As an insider tip ... walk all the way across the bridge and then underneath for great photo ops of the city ...
+1,"Also had room service- quick and again, reasonable."
+1,You shouldn't be in Sydney to sit in your room and watch TV.
+1,"and for that the hotel scores great marks, however when staying in a hotel I would expect to be pampered or at the very least not longing to return to my own bed."
+1,"Make sure you are aware of this, and plan your last day accordingly."
+1,Whatever you do don't book the rooms with 2 single beds if you are an adult!
+1,Take a 10 dollar taxi ride to the Sydney Harbour area or to downtown and you will get your fill of restaurants.
+1,However if you get the price right and want clean
+1,I would recommend the Altamont to the independent traveller.
+1,My one suggestion for improvement would be that breakfast could be more imaginative and varied.
+1,A hotel that wants to atrract a fashionable young crowd must surely think that a full length mirror in all bedrooms is a must.
+1,You'd be better off going out on the town and finding breakfast at a cafe or restaurant.
+1,I would recommend staying on the Club Floors if you choose this hotel.
+1,I would stay there again but would make sure I was on the top floor.
+1,"and staff quality I would advise you to go to one of the better know chain hotels, at least you know what to expect."
+1,Other things to know: the large revolving front door is locked after midnight at some point - you need to press the green lighted button on the bellstand which then rings the night manager inside to let you in;
+1,concierge desk has plenty of umbrellas at their desk if you need to borrow one; lighting inside the rooms seemed a bit sparse if you like it bright;
+1,Certainly avoid the rooms at the back if you can
+1,We highly recommend the Estherea.
+1,"However, watch out for the bedbugs."
+1,If you are thinking of visiting Amsterdam please do not look anywhere else!
+1,(there's a very nice cafe next door with a huge breakfast for less than half that.
+1," I suppose what you are paying for is the Hotel's Dam Square location, but considering how easy it is to get around in Amsterdam, and considering how noisy and dirty the Dam is, why not stay some place a little further away and just walk over?"
+1,"Also, if you arrive in Amsterdam by car, be prepared to spend an arm"
+1,The lobby could use a little work as well.
+1,There are plenty of restaurants nearby including the Hard Rock Cafe just across the canal.
+1,and if you get lost around Amsterdam at least you only have to follow the signs back to Central station!!
+1,I can recommend the cocktails in the front bar.
+1,"Plus there are many better things to spend your money on in Amsterdam, enjoy!"
+1,"Would recommend the ice bar too to any future visitors, tho it was smaller than we thought,"
+1,Please be aware though there was no indication that breakfast was not included
+1,The great thing about this hotel is it is directly opposite Central station which is a huge plus point if you are passing through with heavy bags or are coming from the Airport.
+1,so if you are taking a car expect to pay in the region of 40 Euros for 24hr parking.
+1,Would recommend this hotel although for its location.
+1,The usual taxi service from the hotel to the airport was 48E so if your trying to budget it might be better to take the tram/train route.
+1,"If you have a 5 star reservation in any hotel in amsterdam, cancel it!"
+1,"If you have traveled Europe, you know baths are not large."
+1,Get off after the floating flower market (fourth stop from central station.
+1,I always think you shouldn't judge a book by it's cover though.
+1,Please be advised that there are steep stairs leading in to this hotel so it would not be suitable for anyone with walking difficulties
+1,"Breakfast not overly exciting, but there is a great pancake shop below the hotel which I would recommend."
+1,"If you don't have alot of stamina, skip this place."
+1,Get your strip of tram tickets at a newsagent as pricey on the trams themselves.
+1,(You have an hour to get back on any tram if you want to use the same just-stamped ticket.).
+1,The Anne Frank House is round the corner (go late to avoid queues)
+1,Would highly recommend Hotel Nadia and would definately stay again if visiting Amsterdam in the future.
+1,Though you can always sleep with earplugs.
+1,"you just want a base from which to explore this beautiful city,"
+1,There is a train from central station that will take you straight to the airport for a few euro.
+1,And expect to hear noises from most of the rooms - unless you specifically ask for a quiet one!
+1,"Would not recommend this hotel, definately not worth the money, avoidlike the plague."
+1,just don't expect any views out the window.
+1,"We would highly recommend the hotel and its hosts for any travelers,"
+1,The tram will deposit you within one block of the hotel (at the stop just opposite the Van Gogh museum).
+1,"The bathroom was large, with a shower and bathtub (and rubber duck!) You can buy tickets to the Rembrandt Museum and Rijksmuseum through the hotel."
+1,"If you choose a smaller room, Hans will store your luggage."
+1,A chair would be useful for longer than one night stays.
+1,You have got to try this place when in Amsterdam!
+1,you can catch a tram from outside the hotel to all areas.
+1,They should simply put whirlpool jets in it and accept the fact that it is nothing more than a big bathtub.
+1,"I would recommend Costa Gallega, one block north on the Passeig de Gracia (get the piquillo peppers stuffed with crabmeat, patatas bravas, and wash down with a good cold glass of the local Penedes wine - Vina Sol."
+1,Mattress in need of replacement or rotation - I felt I would slide off the bed because the mattress leaned towards the telephone.
+1,"Suggestion: If you insist on staying, view your room beforehand!!"
+1,I am avoiding all Ritz Carltons for the next century and suggest you stay away from this monstrosity in Barcelona.
+1,"One block walk takes you to the Metro, and from there, you are minutes away from everything,"
+1,Remember to take ID if you go to the casino next doorIts a real shame that we had the problems that we did otherwise probably couldn't fault the hotel
+1,"I wouldn't normally write reviews, however after having such a stay at the weekend I feel compelled to recommend to others not to waste their money and stay at this hotel."
+1,stay somewhere else in barcelona ... and go to the Arts to visit the great bar and the fantastic Arola restaurant
+1,This hotel has a great location if you want to do the whole tourist thing around the Ramblas.
+1,There were no tea/coffee making facilities in the room which should really be standard in a 4 Star hotel.
+1,"If you are still tempted to visit, stay in a hotel off the Las Ramblas as I think you will get a much better deal."
+1,"It's a great place for young, old, single and couples, however put on your streetwise hat, because there are hustlers working the Ramblas"
+1,"the breakfast doesn't really rise above standard Eurofare, though if you just need some fuel for the day ahead it'll do."
+1,Do not hesitate in making a reservation at this place...
+1,A 5/10 minute walk from the terminal along a signposted route brings you to the train station where a journey of 20 mins costing EUR2.
+1,"Over, I would recommend this as a place to stay if visiting this great city."
+1,Be sure to LOCK UP your stuff!!!
+1,and wouldn't hesitate to recommend it to others.
+1,"But for a 5-star luxury hotel, it would be nice if they would drop off a bottle of water every day."
+1,"I would consider staying here again, and would recommend it if you don't mind the location, but would probably stay closer to all the action next time."
+1,"I suggest you try this place for yourself,"
+1,"If you are not Spanish, then don't even think about staying here (unless you enjoy feeling like an unwelcome guest)."
+1,There is a lot to see so get a cheap guide book and plan your visit.
+1,"If I could give you one piece of advice -- either pay more for a hotel closer to where you will actually be doing things, or come back at another time."
+1,"If you want to get around the sights, use the bus touristico it's great."
+1,and we highly recommend it to anyone visiting the city.
+1,In other words make sure you ck your bill before leaving the hotel.
+1,"and if you have a skateboarder in the party (as we did) it is very convenient for several of the better spots (MACBA, Universitat, one stop on metro to Paral."
+1,Do not recommend that you buy drinks in the hotel bar or from the mini bar - very expensive.
+1,Entry to all discounted if you buy a Barcelona Turistica bus ticket.
+1,Bring comfy walking shoes!
+1,"If you are new to the area, I would not recommend it."
+1,Spa really need to be cleaned (avoid the hammam).
+1,"I would recommend Hotel 1898 as a great place to stay, especially for the wonderful rooftop terrace and the central location"
+1,"If you're a VERY light sleeper, go for internal room."
+1,"Antoni, a wonderful place to spend an hour (or more) if you are at all interested in local food, culture, language, etc. The metro is a block away, cabs are available on call or on the street (within a minute or two, but spotty)."
+1,"Avoid the SPA area which is a joke,"
+1,"nice hotel, but don't stay here unless you don't care not to receive your faxes in time, or if telephones are transfered to the wrong room (if you are the unlucky one to have the same family name as another guest...) better stay at the Plaza Athenee or Meurice!"
+1,"Try the ice-bar if you are visiting,"
+1,"Make sure you re-finance your home, sell your car and bring lots of cash for the many employees who are grateful for their $20 tips all day."
+1,"Skip the 15 euro breakfast and walk out of the hotel, turn left, walk 15 steps and you are at a wonderful bakery!"
+1,You could have got here by a combination of the Roissy bus and Metro 8
+1,"And about twice a week, there is a farmer's market here where you can buy everything from fresh fish and foie gras to table linens and jewelry."
+1,Don't expect to go to sleep any time prior to 2am because the radiator pipes will keep you awake.
+1,I would suggest that Hotel Langlois paint  furnish the attic so that it measures up to the rest of their facility.
+1,"Think hard before booking this hotel - the room rate might seem ok,"
+1,"I would love to go back and would definitely recommend it for the ambience, fantastic location, totally amazing staff and all the special treats!"
+1,We were thrilled to be upgraded to the Suite on the ground floor - check out the photos on the hotel website - all true!
+1,Grab a couple bakery items at one of the corner bakeries and have a seat at the counter of the Cafe Bleu for a morning cafe au lait.
+1,"though, we do recommend this hotel to others."
+1,"There is a Boulanger a few doors up if you decided to buy croissants, baguettes, eclairs etc and the metro is literally right outside."
+1,"However, DO NOT accept rooms 701 or 702 if you are a light sleeper (like me.) The rooms are on the ground floor, off the courtyard."
+1,We left half the box on the table
+1,"My advice is book a hotel in an area with more charm, unless you want to be downtown,"
+1,room needs better electricity plugs
+1,"A tip - if you want a really quiet room, ask for one at the back of the hotel above floor 10. We took breakfast every morning in the hotel's restaurant, Luques."
+1,"If you are sharing a room with someone you do not know, get TWO rooms."
+1,Ask for a room in the back of the hotel or high up.
+0,My daughter and I just returned from a four night stay at the Pulitzer and were very disappointed.
+0,I had searched for a good hotel at a rate of up to $300 a day and after much research decided on the Pulitzer.
+0,Big mistake.
+0,We saw a lot of tour groups in the hotel
+0,"In summary, I would not spend the money to stay at the Sheraton Pulitzer, and would hope that this is not typical of Starwood luxury properties."
+0,I mainly chose the property for it's location (I used to live in the neighborhood and absolutely love the area).
+0,How odd is it to get the same room twice?
+0,"Well I did, and since staying in it 3 years ago,"
+0,"In addition to their attitude, cobwebs and dust were prevalent"
+0,and the only thing that changed from day to day was a made bed.
+0,3 Positive Aspects:1. The location.
+0,and the canal location is exquisite.
+0,Staying in a canal house is an experience and makes the hotel very unique and Dutch.
+0,I guess I just don't have the proper appreciation for the difficulty in joining 20 odd canal houses together to make a hotel.
+0,Or maybe it was just my expectations of what I would find in the way of a five star property.
+0,"But in any event, I was underwhelmed with the Pulitzer."
+0,"In fact, there are many apartments that are considerably smaller (okay, so I peeked in the windows of way too many apartments as I walked along the canals)."
+0,No central lobby to speak of.
+0,I mean awful.
+0,this hotel is truely the best in amsterdam and an enjoyable place to stay.
+0,our 3 pound little dog just loved it and felt like home immediately.
+0,i honestly cant find anything bad to say about the pulitzer and staff given the price/reward ratio.
+0,In fact by looking @ price/reward i find the Pulitzer to be in the highest category of 5 star hotels ive been to...
+0,Location just cant be beat....
+0,This place is killer and happy to return shortly...
+0,Just spent 3 nights at this hotel 5th March 04 -8th March 04. The location is excellent
+0,my husband and I were on the third floor the people staying above on the 4th could have been in the room with us.
+0,"I had communicated 6 months in advance, requesting Canal side room with access to elevator as my travelling partner was my 76 year old mother."
+0,Confirmed in email by the hotel for this advance request.
+0,"Yet, arrived on date planned."
+0,"we got one that was smelling very heavily the cigar (so an other 20mn to change and get an other room)3) they were sorry for this,"
+0,"I said that i was not willing to pay,"
+0,"This was the first day, nice....unfortunatly we pre-paid the 3 nights (325 euros per night...not cheap for Amsterdam),"
+0,"I told in their survey what i was thinking about their hotel,"
+0,"the answer  we are very sorry, and hope to see you again at the Pulitzer."
+0,"Everybody now that i meet, i tell them to NEVER go to this hotel."
+0,Got a great rate for this hotel on hotwire ($195 per night) so was really pleased to be staying here.
+0,I had some reservations about booking with the Pulitzer after reading the mixed reviews but was talked into it by my travel agent who books high end travel.
+0,We were woken up by a mouse scratching at the door trying to get out of our room.
+0,but I can see where it gets spotty reviews.
+0,The hard part is that is a far better hotel than most amsterdam hotels so.....
+0,and with that range of experiences here is what to expectGood:Location and concept (row houses around two canals)Beds
+0,and I got food poisoning onceService attitude
+0,and the Amstel is very good but very old fashioned
+0,We had made reservations for this hotel
+0,"I planned a trip with my parents who are 70yo,"
+0,and I wanted to treat them with a nice experience in one of the best hotel in Amsetrdam.
+0,Orrible experience!
+0,My parents were shocked!
+0,"the concierge could not find me tickets for any concert in town,"
+0,the staff is tired and not helpfull.
+0,"The Hotel's location is brilliant, and within walking distance of the rest of the city."
+0,"The Moroccan door and bar staff likewise were helpful, polite and efficient."
+0,"and management were lazy, rude, complacent and could not manage anything without conflict including the printing a bill when checking out."
+0,"After refusing them a carte blanche on my credit card they remarkably had a working computer and printer, after claiming billing problems."
+0,They then tried to pull the same trick on Asian members of my traveling party.
+0,"When I left, the lobby resembled the port at Rotterdam all morning because someone could not organize somewhere else (e.g. an empty conference room?) to put the luggage of a German coach holiday."
+0,"Given the attitude of the senior staff, I think they may be getting more English stag parties and elderly coach tourists than those the Starwood group desire."
+0,I stayed at the Hotel Pulitzer in the beginning of January.
+0,Stayed at the Pulitzer for business at the beginning of June 2005.
+0,Breakfast for Euro 20 was OK!
+0,The location is great!
+0,It was my 5th visit in Amsterdam but my frist stay at the Pulitzer.
+0,Thanks I got a special price endless week end wich make the price for the room at 215 Euros the night.
+0,Thanks I did not have to pay this price !!
+0,"Location is nice, bar is nice, staff friendly but I'd rather put my money in another hotel next time."
+0,"We used the room service for dinner the first night because we arrived late,"
+0,"Having booked a deluxe room at the Pulitzer, we were very much looking forward to our one night stay."
+0,"and more tatty the further we went,"
+0,our expectations were disappointed.
+0,"Finally, having lugged our suitcases up a winding and dirty staircase we got to our room."
+0,We were extremely unimpressed by the quality of service we encountered.
+0,The high price we paid to stay here does not represent value for money as far as we are concerned
+0,Stayed there on New Year's Eve in a reward room so it was free.
+0,Rooms facing the canal may get much better view.
+0,The hotel itself lies along a grand canal in a beautiful and historic Amsterdam neighborhood.
+0,My husband and I went for a romantic weekend and are already getting ready to book again for the holiday season!
+0,I have stayed here twice recently and have to say I am extremely disappointed in it.
+0,I stayed during the week on a business trip.
+0,"Also, simple requests are never followed through"
+0,and this includes my wake up call which didn't happen and asking for an iron which never arrived.
+0,I really can't see how it gets away with claiming to be in any way a 'luxury hotel.
+0,It's a row of houses converted into a hotel which is run in a poor to decidedly average manner.
+0,"Stayed here for 3 nights in May 08, in an executive canal room."
+0,"Good stuffThe location is the best in Amsterdam, away from the noise and sometimes seedy side of Amsterdam."
+0,and the houses with big tall windows and was light
+0,Staff were friendly and most were helpful Great restaurants
+0,and we were shocked!
+0,As the hotel was full then no upgrades were availableDue to the lack of soundproofing noise travels
+0,and we had noisy neighbours next door
+0,Our trip was a special occasion
+0,and we had booked champagne
+0,but for the difference in price I had assumed it would be!
+0,and sunday morning - monday was much better for service as a whole
+0,and I guess that during the week is much better and quietier.
+0,We left it too late
+0,and paid too much for what we got.
+0,We were planning to stay at this hotel
+0,"Every other hotel in the Netherlands agreed to refund our money, but not this one."
+0,"In fact, they were very rude"
+0,"In fact, when we talked with Starwood about this policy, they actually told us that it was up to the local manager to make the determination."
+0,I stayed at the hotel during my first trip to Amsterdam.
+0,As a SPG I was updated to a wonderful room at the end of the hallway.
+0,ALthough it wasn't a huge room by any means it was big enough for me.
+0,the up and downs it takes to get to one's room gets old.
+0,"The front desk girl, Alexis, was not too friendly and rather negative."
+0,"So I moved to the Amstel Hotel, a true 5 star!"
+0,It was not until months later that the credit card company resolved the matter in our favor.
+0,I am shocked at the way this matter was mishandled by the hotel.
+0,I am shocked by the other reviews.
+0,I travel for business on a daily basis
+0,I was shocked needless to say that they basically accused the front desk of stealing...
+0,I make the next biggest mistake of going to eat at the resturant.. and eating...
+0,I got violently ill...
+0,I spent the next day in bed...
+0,I return to the Bar the next night after recovering..
+0,and the bar tender asks me how my night was ...
+0,I mention how ill I got
+0,and he asked what I ate I mentioned it an he shook his head and bought me a shot...
+0,I called down on the 4th day and said I have not been able to stay connected for more that 5 minutes...
+0,and ---I was told would you like me to give you the number again....
+0,I know I was rude with the last comment.
+0,I wish I experienced the service that the previous guests experienced.
+0,Stayed here recently for 3 nights.
+0,I am a Starwood Platinum member
+0,and checked in assuming I would be given my upgrade to the best available room (this wording according to policies by Starwood).
+0,But i called the duty manager the next night and asked for a larger room.
+0,At first he fed me some story about small rooms.
+0,"They tried to just give me an upgrade to the next class of room, not the best class."
+0,Other things to note: PROS: 2 free stroopfwaffles each day; GREAT BEDS!
+0,but given what we paid we expected more.
+0,"Overall, for what they charged I was expecting more."
+0,"After much research, I finally decided on this hotel because of its position in Amsterdam and being classed asluxury seemed an ideal choice for my daughter and I to spend a weekend as her special birthday treat."
+0,"At Reception the Night-Duty Manager(female) whose name I have noted, appeared to resent being interrupted whilst in conversation with a friend, her expression when I told her what we thought was the cause; practically a sneer of disbelief."
+0,"At no point did she seem interested,I could feel my professional face about to develop."
+0,"Because I did not wish to spoil my daughter's first visit, I did not pursue the matter as vociferously as I would normally, or when with my husband."
+0,"In conclusion, a disappointing choice when one compares this hotel with others experienced, of a supposed lesser category."
+0,My family and I had a nice and trouble free 4 night stay at the Pulitzer.
+0,"Family-Friendly As a couple with a young child (toddler) in tow, we appreciated the ample and uncrowded public spaces more than the room itself."
+0,"Between the points and a corporate rate, we were only supposed to pay about 800 Euros for a 5 night stay, which seemed very reasonable."
+0,"When we arrived, we received the same treatment at the front desk as many previous reviewers..."
+0,and they were generally disorganized and not very cordial (though not rude).
+0,The furniture was nice but shabby - scratched and dented.
+0,"Being on the canal had its perks, but we could hear people walking by (talking, shouting and laughing) until the wee hours."
+0,We heard banging during the day.
+0,"and while the breakfast was great, I wouldn't spend the extra 75 Euros a night to include it in the price of my room (seemingly the only differentiator between a regular room and executive)."
+0,"We did spend 38 Euros pp to take a 1.5 hour ride on their lovely canal boat, which would have been great if not for a family with a baby who showed up late with a stroller and displaced other passengers."
+0,"We booked a three-night stay using Starpoints, arriving December 30, 2008."
+0,"I am a Starwood Platinum,"
+0,and I was informed that no upgrades were available because the hotel was sold out for new years eve.
+0,"Later that evening, I checked the hotel's website and saw that the hotel was not sold out."
+0,"We could hear noises in the hallway, from the room above us, and from the heater."
+0,We stayed at the Pulitzer some time ago (August of 2007) so some memories are lost.
+0,"We had a friend that stayed in a neighborhood closer to the red light district, and let me say..."
+0,we spent a lot more time in our neighborhood.
+0,They have their own canal boat for tours
+0,"but that is the norm for Amsterdam apparently (when our friend came over he said his room was ""pretty much the size of our bathroom...no, seriously!"""
+0,"We were on the first floor on the canal, but was a bit noisy from road noise and some construction work being done."
+0,"Non-existent service, poor food, rude attitude, overwhelmed staff, noisy, stuffy rooms."
+0,My problems began when i arrived early for check in- 10am.
+0,As you can imagine i refused- not a good way to start your holiday.
+0,Views looked out to another building almost immediatly opposite
+0,and the lack of light was depressing (no ceiling light).
+0,"To all their fairness they refunded back 1/3 of my fee, that still leaves 200 euros for the night which is still a ludicrous price for that hotel- My advise?"
+0,I just read some of the bad reviews for the Pulitzer
+0,and I couoldn't agree more.
+0,Last year the hotel was still getting raves
+0,and it's about time that the reviews reflect how bad the place really is.
+0,but at least we faced the courtyard instread of being in the attic.
+0,The concierge consistantly gave bad advice if he gave any at all.
+0,we were very excited to see that.
+0,I stayed at the Westin Grand this past weekend during my trip to Berlin to run the marathon.
+0,As a family member of a Starwood Hotels employee I have stayed at many Westin properties
+0,and this one was about in the middle in terms of quality.
+0,"On the plus side, the location was great."
+0,"It is close to public transportation, close to many of the city attractions and close to the start of the marathon."
+0,It also was great to have access to the spa and pool before and after the race.
+0,I also agree with many posters that the breakfast was great.
+0,They also did not charge me for my 7 year old son
+0,and he eats quite a bit.
+0,"On the negative side, was the fact they did not change towels on one day"
+0,and only stocked the bathroom supplies once for a 3 night stay.
+0,"Additionally, room service for a pot of coffee took 1 hour."
+0,I stayed in an unrenovated room with a view out the window onto Fredrichstrasse.
+0,This was nice since I could see a portion of the race route and could watch roller bladers
+0,and runners go by from my window.
+0,Overall the stay was just above neutral.
+0,I stayed at the Westin Berlin 3 or 4 times.
+0,This time I stayed for two nights
+0,and they gave me a room upgrade to a renovated room.
+0,Renovated?
+0,"Yes, they call it renovated."
+0,The renovated rooms are located to the courtyard and have the same size like the normal rooms.
+0,"Bad smell, ugly furniture, bad design, old fahioned, dirty, noisy a/c and not really a heavenly bed I guess."
+0,"Still, the location is the best"
+0,and the lobby is very pritty and impressive.
+0,"But the rest of the hotel, forget about it."
+0,Also the food at Friedrichs is boring and very traditional.
+0,My wife and I stayed two nights at this hotel at the end of February.
+0,"The carnival was in full swinging in Berlin, but not in this hotel."
+0,"Granted, as you enter the lobby you feel that you are entering into a great hotel."
+0,"The lobby is beautiful and has a luxurious feel, with a loveably staircase,"
+0,but the luxury ends right there.
+0,"The schizophrenic state starts as you begin walking to your room, what an awful smell in the corridor."
+0,I concur with previous reviews;
+0,I felt I was walking through a sewer.
+0,Then you enter the room.
+0,"A twin bedded room, and I mean twin and small beds."
+0,Really separate beds.
+0,"Request for change was denied, notwithstanding my Starwood card."
+0,No heavenly pillows; no heavenly beds; and no heavenly comforters here.
+0,I felt I was staying at a **star hotel room.
+0,Then you enter the bathroom.
+0,It must have been decorated by the owner of a hospital.
+0,"It was all white, with no goodies."
+0,"I accept, however, that we had a balcony and a great view unto the Unter den Linden, but that was it."
+0,"In conclusion, this is no *****star hotel."
+0,I stayed at the Grand Westin several times.
+0,Lobby and location is perfect.
+0,Service is so so.
+0,I'm a Starwood Platinum Member and they didn't upgrade me!
+0,They said it was a congress like Berlinale or so.
+0,"The rooms are so old fashioned, stinky and noisy."
+0,Bathrooms are even worse.
+0,"In reality, rooms look different!"
+0,(and much worse!!)
+0,"The best thing about the Westin, as everybody has already stated, is the location."
+0,"But, this is not the only hotel in the area - The Hilton is just a few blocks away as are a few others that are in the 5 star range."
+0,The big problem for me was the fact that the rooms have an ever present sewer smell that hits you as soon as you walk in the room.
+0,"I was prepared for this as many of the reviewers have mentioned it, but still, it is unacceptable."
+0,"I was staying here with my Starwood Points,"
+0,"so the room and breakfast were included in the award,"
+0,but my points are valuable
+0,and I felt like I wasted them on this hotel.
+0,"A curious thing for me was, when I walked outside the hotel, every so often, from Friedrichstrasse to the Brandenburg Gate,"
+0,that same awful smell would drift by.
+0,We had a small trip to Berlin this spring and choosed this hotel because it is easy to reach and in the heart of berlin.
+0,"Breakfast is one of the best I ever had,"
+0,but you have to wait quite a long time to get seated in this small and crowded breakfast room.
+0,"As this is a quite large luxury hotel, the rooms are really small."
+0,"The room we got was nothing special, small, clean, thats it."
+0,"Overall the hotel is quite ok,"
+0,but I had better ones.
+0,Just returned from a Great 3 night stay at the Westin on a fantastic priceline deal.
+0,I would agree with earlier reviews that this hotel doesn't quite make the 5 star status it claims but is a very good 4 star property.
+0,The hotel is located in the former East Berlin and is well placed for most of the sights.
+0,Getting around is easy thanks to the U-Bahn station practically on the doorstep.
+0,"The public areas are very grand especially the lobby with its huge atrium, sweeping staircase and piano player."
+0,Couldn't notice any strange smells in the lifts as mentioned by a previous poster.
+0,Bedroom was standard size and decorated in classic style.
+0,The room did show some signs of wear (nothing major though)
+0,but a refurbishment programme is in progress (we had a note apologising for any noise heard though we did not hear any).
+0,The beds were as promised Heavenly with a pillow that could be moulded to suit any height preference.
+0,The bathroom whilst adequate was a rather basic white tiled room which didn't quite match the granduer of the bedroom and public areas.
+0,Everything worked well though
+0,and there was a good selection of bathroom products.
+0,Staff were at all times exceptionally courteous and polite.
+0,Breakfast was not included
+0,My husband and I stayed at the Westin for three nights.
+0,We had booked a non-smoking room but were given a smoking room instead.
+0,"Our room was down a long corridor with three dead lightbulbs, which we pointed out but were not replaced during our stay."
+0,As soon as I arrived I went to wash my hands
+0,and I the head of the tap came off.
+0,The fridge door became unhinged as soon as I opened it.
+0,"This would have been funny were it not because we were on a rare break and, in addition, the room was tired, smelly, had a stained carpet and a stained armchair."
+0,The net curtains had not seen a washer in a long while.
+0,The sheets were not changed for three days
+0,and one the them had a suspicious rosy mark on it.
+0,"However, the worst thing was the level of service (or rather the complete lack of it)."
+0,We were not given another room and had to wait until the next day for the tap and fridge to be fixed.
+0,I asked for the sheets to be changed three times
+0,"and I was told they would be,"
+0,but it never happened.
+0,Reception staff were plain rude
+0,"and even the manager told me (I still can't believe I heard this) that they had given us a smoking room,"
+0,even if I had asked for a NS one because I happen to be Spanish
+0,and most Spanish people smoke!
+0,We tried the pool to relax ouserselves
+0,but after waiting for 15 mins to get some towels we gave up (a single lady was managing the beauty centre and the whole pool area).
+0,"The following day we were lucky with the towels, but found the poolside furniture dirty,"
+0,We were never given any apologies or signs of regret for the shortcomings we had to deal with.
+0,A frustrating and depressing experience.
+0,I had to pinch myself to believe it was actually happening.
+0,I stayed at the Westin in mid september after having stayed there in 2005.
+0,I have always like the location and was very impressed with the recent improvements.
+0,The room was great with a modern updated decor.
+0,"Most importantly, the staff were very helpful and friendly."
+0,This had not been the case in 2005 when folks seemed cold...
+0,"Let's have a round of applause, please, for the Westin Grand, for taking discount bookings to a new low."
+0,"I have long suspected that hotels reserve the smallest room, the one with the worst view, or the one by the elevator, for guests who pay a discounted rate ..."
+0,"but never before have I been offered a dirty, smelly room and then upcharged for a ""renovated"" (i.e. clean) room."
+0,"you come to the end of a regular-looking hotel corridor, pass through a lounge, and into a narrow, dark and musty corridor with doorways just about your height and barely wide enough to fit your carry-on luggage ... well,"
+0,you have been given a discount special!
+0,"Turn around immediately and return to the front desk, where you will be charged an extra 30 Euros per night for a ""renovated"" room that, upon inspection, hasn't been renovated anytime in recent memory, but is at least cleaner and does not smell."
+0,"Our first room was very small, the upholstery and lampshades(!) were stained, the furniture desperately needed to be refinished,"
+0,"and it had a very strong, musty odour (mould perhaps?) At the front desk we were told that because they were fully booked, they could only offer us another room in the same grade, or a ""renovated"" room for an extra 30 Euros per night."
+0,(Fully booked?
+0,But they could still find a better room for an additional fee?
+0,"I'm not sure that I follow that logic, but whatever.) After our overseas flight we really didn't feel like arguing, so we just paid the extra - no way to say now if the other room in the same grade would have been acceptable."
+0,"The second room, pictured here, was much better."
+0,"It was larger, cleaner and updated (though the washroom was clearly not renovated, as I've noted in my pictures)."
+0,"I would have been perfectly happy if we had been offered this to begin with, and would have given the hotel a higher rating,"
+0,but I consider our treatment unacceptable.
+0,"Having said that, I still ranked this hotel a 2 rather than a 1 because the breakfast buffet was fantastic, and the location was very convenient for sightseeing."
+0,"The room service was also quite good, and the staff friendly and (for the most part) helpful."
+0,I haven't stayed at too many nicer hotels.
+0,Nor would I generally spend over 300 Euros for a hotel (thankfully my Mom was paying for this stay).
+0,"At the risk of sounding like a line from ""Cabaret,"" everything about this hotel is beautiful."
+0,The lobby is beautiful.
+0,The restaurants are beautiful.
+0,The rooms are beautiful.
+0,The pool and gym are are really beautiful.
+0,Even the breakfast is a feast for the eyes (as well as the stomach).
+0,We ate at both restaurants.
+0,"The Trader Vic's puts our Trader Vic's here in Emeryville to shame, both with respect to decor and food quality."
+0,"The German restaurant, Mark Brandenburg, simply had the best German food I've ever had (and I've been to Germany about 8-9 times)."
+0,One needs to swipe ones room cards in order to access the floor rooms.
+0,The pool/gym area is open 24 hours/day.
+0,"As a Gold HHonors member, we received an upgraded room, which was very quiet, comfortable, and large, but had no view (windows open to an inner courtyard)."
+0,"My complaints about the hotel: (1) Charging 22 Euros/day for lousy (off/on) internet service is a bit outrageous given the very high room charges, (2) Temperature difficult to adjust in the room (no thermostat),"
+0,"and we couldn't get it quite cool enough for comfort, (3) Rather thin towels for a luxury hotel, (4) Needless step to the beds; great for tripping on (especially for an older person such as my mother)."
+0,"So a very nice hotel, albeit not a great value."
+0,I would go here if money were of no object (and not otherwise).
+0,"We stayed at Hilton Berlin in early June, 2006."
+0,"We are Diamond HHonor memebers,"
+0,so were upgraded to executive room on the executive floor.
+0,"The room is average looking, with motel style bedspread and decrative pillows."
+0,"underneath the bedspread, there are 2 twin comforters, which is wierd for a queen room."
+0,"Bathroom is average looking too, with mold smell."
+0,concierge not helpful and very unfriendly.
+0,executive floor representitives are cold too.
+0,"we stayed at many hiltons worldwide,"
+0,"we feel this is a below average hilton, especially for it's service."
+0,we defintely will try other hotels when we return to berlin next time.
+0,They also have a nice pool and spa
+0,"but the children at all hours in the pool will drive you to the nudist spa area, which is pretty nice and child free."
+0,There are several good restaurants near by.
+0,We loved the eastern sector location with it's delightful walking areas and proximity to museum island and gorgeous neo-classical architecture.
+0,The Potsdammer Platz is very times square with it's glass and steel highrises and heavy traffic.
+0,The rooms are very comfortable - typical Hilton decor - nice sheets and good showers.
+0,The concierge was very helpful with local restaurants.
+0,"The lounge had a great breakfast and offered drinks through the day including wine, etc. at evenings with appetizers."
+0,"Room _£_ Room was OK,"
+0,"we had a corner suite so we had plenty of room,"
+0,and bathroom was typical smallish hotel fare.
+0,"Food _£_ Breakfast _£_ Only had breakfast on the last day _£_ good spread, fresh and presented well."
+0,"Dinner at Trader Vics _£_ Again OK, it was nothing to write home about."
+0,We had much better meals at the surrounding cafes/restaurants.
+0,"Staff _£_ Reception desk staff were fine,"
+0,"the concierge that we went to see about finding a laundry mat was a bit of pain in the rear,"
+0,"he sent us to the right suburb but the wrong street,"
+0,it was around the corner and across the road.
+0,Overall _£_ This is a typical businessman_£_s / conference hotel.
+0,its location was it_£_s main attraction to us.
+0,Stayed at the 5 Star Hilton Berlin for two nights to experience the Christmas Markets and celebrate my friends birthday.
+0,We we allocated room 5088 which looked over an internal courtyard so very quiet but no view.
+0,Most importantly the room appeared clean and well maintained.
+0,The size of the room was adequate
+0,but the luxurious touches I would have expected from a hotel of this standard were in my opinion poor.
+0,"There were robes (not very large, soft or fluffy) and slippers, small, thin towels (in fact my friends had to share a towel)."
+0,King size bed (plus added squeaky springs) with two single duvets.
+0,Minimal tea  coffee (one cup per day) and mini bar.
+0,The room also had ironing facilites.
+0,There was a pool and spa
+0,but I don't have experience them.
+0,With last minute it was room only so no idea what the breakfast was like.
+0,The redeeming point was the hotel's location which was superb.
+0,"Hotel is well-situated near main attractions, restaurants and shopping."
+0,"Room was clean, well furnished and serviced promptly."
+0,The room air conditioning had a hard time keeping up with the warm temperatures in Berlin.
+0,The restaurant (Mark Brandenburg) was over-priced and had marginal food.
+0,The hotel was overrun with meetings and groups.
+0,"There was an unexplained,"
+0,additional Hotel charge of 8 Euros that appeared on my credit card statement.
+0,"I challenged the charge in an e-mail to the hotel, and followed up with e-mails to the Hotel (twice), HiltonHonors and Hilton corporate."
+0,None of these Hilton entities have had the courtesy of even responding (no less reversing this charge) in over a week.
+0,"Stayed in a standard room - clean,quiet and very comfortable."
+0,Hotel amenities were excellent.
+0,Staff very friendly.
+0,Restaurants - food great and a nice selection.
+0,It is in a very good location - tube stop right outside or walking distance to Checkpoint Charlie.
+0,A great choice!!
+0,Stayed here for four nights.
+0,We upgraded to a room with a view of the Gendarmenmarkt for 20 euros a night.
+0,The room is avarage in size.
+0,Double bed quite narrow and not as comfortable as expected.
+0,Bathroom nice but on the small size.
+0,"Breakfast was included in our deal,"
+0,yet each morning they asked for our signature as on their records it appeard as if our breakfast was exclusive.
+0,I would have assumed that after their first mistake they'll sort their records but it never happened.
+0,Unfortunately i fell ill on our last day there.
+0,I sent my husband to get me an Aspirin until we buy one at a pharmacy.
+0,They couldn't spare us one and said they didn't have any.
+0,There is no turndown service as well.
+0,"Apart from all the above the location is great, central and quite."
+0,and our last stop was Berlin.
+0,Very very unfortunate for us that Park Inn was fully booked
+0,and the tour agent booked this hotel.
+0,No cafes or shops within safe walking distance.
+0,"The hotel is in a very good location, close to the train station and other city attractions."
+0,The rooms were great
+0,but I would have spent a lot of time in it to make up for the deficiencies of this place.
+0,"The swimming pool is rather small, just enough to refresh yourself."
+0,"All in all a OK hotel, but not nice and cosy."
