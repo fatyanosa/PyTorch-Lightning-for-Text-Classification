@@ -1,5 +1,5 @@
-# Deep Neuroevolution
-How to run:
+# PyTorch-Lightning-for-Text-Classification [![DOI](https://zenodo.org/badge/398056958.svg)](https://zenodo.org/badge/latestdoi/398056958)
+Rank #55 in [GLUE Benchmark Leaderboard](https://gluebenchmark.com/leaderboard) using distilbert-base-uncased with manually tuned hyperparameters.
 
 ## TRAINING
 
@@ -178,3 +178,6 @@ python testing.py --task_name wnli --model experiments/distilbert-base-uncased/W
 ``` bash
 python testing.py --task_name ax --model experiments/distilbert-base-uncased/MNLI --output_file data/submission/AX.tsv --label_form names
 ```
+
+# Cite As
+Tirana Noor Fatyanosa. 2021. PyTorch-Lightning for Text Classification. Zenodo. https://doi.org/10.5281/zenodo.5224947
