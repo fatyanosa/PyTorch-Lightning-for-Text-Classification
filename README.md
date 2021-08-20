@@ -1,4 +1,4 @@
-# PyTorch-Lightning-for-Text-Classification [![DOI](https://zenodo.org/badge/398056958.svg)](https://zenodo.org/badge/latestdoi/398056958)
+# PyTorch-Lightning for Text Classification [![DOI](https://zenodo.org/badge/398056958.svg)](https://zenodo.org/badge/latestdoi/398056958)
 Rank #55 in [GLUE Benchmark Leaderboard](https://gluebenchmark.com/leaderboard) using distilbert-base-uncased with manually tuned hyperparameters.
 
 ## TRAINING
