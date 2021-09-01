@@ -183,4 +183,4 @@ python testing.py --task_name ax --model experiments/distilbert-base-uncased/MNL
 Tirana Noor Fatyanosa. 2021. PyTorch-Lightning for Text Classification. Zenodo. https://doi.org/10.5281/zenodo.5224947
 
 # Credits
-The code builds off of [this repository](https://github.com/ricardorei/lightning-text-classification), which built off of an older PyTorch-Lightning version.
+The code builds off of [this repository](https://github.com/ricardorei/lightning-text-classification), which built off of an older PyTorch-Lightning version. The code also follow the [example from pytorch-lightning](https://pytorch-lightning.readthedocs.io/en/stable/notebooks/lightning_examples/text-transformers.html).
